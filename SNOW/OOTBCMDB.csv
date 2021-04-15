@@ -1,0 +1,883 @@
+﻿Name,Table Name,Extended From Class,CI Family,Created
+.NET Application,cmdb_ci_appl_dot_net,Application,cmdb_ci_appl,11/08/2016 19:23
+A10 Load Balancer,cmdb_ci_lb_a10,Load Balancer,cmdb_ci_lb,11/08/2016 19:22
+A10 Load Balancer Partition,cmdb_ci_lb_a10_partition,Configuration Item,cmdb_ci_lb,06/03/2021 01:12
+Accessory,cmdb_ci_acc,Configuration Item,cmdb_ci_acc,06/03/2015 17:57
+ACE,cmdb_ci_lb_ace,Load Balancer,cmdb_ci_lb,11/08/2016 19:25
+ACL Endpoint,cmdb_ci_endpoint_acl,Endpoint,cmdb_ci_endpoint,22/02/2018 19:22
+Active Directory Domain Controller,cmdb_ci_ad_controller,Directory Server,cmdb_ci_ad,11/08/2016 19:25
+Active Directory Domain to Domain Controllers Endpoint,cmdb_ci_endpoint_ad_domain,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Active Directory Forest Endpoint,cmdb_ci_endpoint_ad_forest,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Active Directory Service,cmdb_ci_appl_active_directory,Application,cmdb_ci_appl,11/08/2016 19:24
+ActiveMatrix Business Works,cmdb_ci_appl_tibco_matrix,Application,cmdb_ci_appl,11/08/2016 19:24
+ActiveMatrix Business Works Process,cmdb_ci_appl_tibco_matrix_proc,Application,cmdb_ci_appl,11/08/2016 19:24
+AD Domain,cmdb_ci_ad_domain,Infrastructure Service,cmdb_ci_ad,11/08/2016 19:23
+AD Forest,cmdb_ci_directory_ad_forest,Infrastructure Service,cmdb_ci_directory,11/08/2016 19:23
+AD Service inc,cmdb_ci_endpoint_ad_service_in,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:25
+Advanced Queue Endpoint,cmdb_ci_endpoint_aq,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Advanced Queue Queue,cmdb_ci_appl_ora_queue,Application,cmdb_ci_appl,11/08/2016 19:24
+agility,cmdb_ci_endpoint_agility,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+agility process,cmdb_ci_agility_process,Application,cmdb_ci_agility,22/02/2018 19:23
+Aircraft,cmdb_ci_aircraft,Transport Type,cmdb_ci_aircraft,06/03/2021 00:40
+AIX Server,cmdb_ci_aix_server,UNIX Server,cmdb_ci_aix,06/03/2015 17:57
+AJP Endpoint,cmdb_ci_endpoint_ajp,Endpoint,cmdb_ci_endpoint,11/08/2016 19:25
+Alert Group,cmdb_ci_alert_group,Application Service,cmdb_ci_alert,29/08/2019 17:02
+Alias,cmdb_ci_alias,Configuration Item,cmdb_ci_alias,11/08/2016 19:23
+Alteon,cmdb_ci_lb_alteon,Load Balancer,cmdb_ci_lb,11/08/2016 19:24
+Apache Web Server,cmdb_ci_apache_web_server,Web Server,cmdb_ci_apache,11/08/2016 19:24
+Apic Host,cmdb_ci_apic_host,Virtual Machine Object,cmdb_ci_apic,22/02/2018 19:23
+Apic Tenant,cmdb_ci_apic_tenant,Virtual Machine Object,cmdb_ci_apic,22/02/2018 19:23
+APIGee EP to get targets host by source url,cmdb_ci_apigee_endpoint,Endpoint,cmdb_ci_apigee,05/03/2021 23:52
+APIGee Service,cmdb_ci_appl_apigee_srv,Application,cmdb_ci_appl,05/03/2021 23:48
+App Icon Inc,cmdb_ci_endpoint_app,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Application,cmdb_ci_appl,Configuration Item,cmdb_ci_appl,06/03/2015 17:57
+Application Cluster,cmdb_ci_application_cluster,Configuration Item,cmdb_ci_application,11/08/2016 19:23
+Application Network Profile,cmdb_ci_app_network_profile,Virtual Machine Object,cmdb_ci_app,22/02/2018 19:23
+Application Server,cmdb_ci_app_server,Application,cmdb_ci_app,06/03/2015 17:57
+Application Server Resource,cmdb_ci_application_server_resource,Application,cmdb_ci_application,05/03/2021 23:28
+Application Service,cmdb_ci_service_auto,Business Service,cmdb_ci_service,16/05/2019 18:14
+Application Software,cmdb_ci_application_software,Software,cmdb_ci_application,06/03/2015 17:57
+Application To Storage Endpoint,cmdb_ci_endpoint_app_storage,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+AQ Queue,cmdb_ci_endpoint_aq_queue,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Automatic Transfer Switch,cmdb_ci_ats_power_eq,Power Equipment,cmdb_ci_ats,06/03/2015 17:57
+Availability Set,cmdb_ci_availability_set,Virtual Machine Object,cmdb_ci_availability,22/02/2018 19:23
+Availability Zone,cmdb_ci_availability_zone,Virtual Machine Object,cmdb_ci_availability,22/02/2018 19:24
+AVI Controller,cmdb_ci_avi_controller,Virtual Machine Object,cmdb_ci_avi,06/03/2021 01:03
+AVI Controller Cluster,cmdb_ci_avi_controller_cluster,Virtual Machine Object,cmdb_ci_avi,06/03/2021 00:28
+AVI Service Engine,cmdb_ci_avi_service_engine,Virtual Machine Object,cmdb_ci_avi,06/03/2021 00:49
+AWS Account,cmdb_ci_aws_account,Virtual Machine Object,cmdb_ci_aws,16/05/2019 18:12
+AWS Cloud ECS Cluster,cmdb_ci_cloud_ecs_cluster,Virtual Machine Object,cmdb_ci_cloud,06/03/2021 00:09
+AWS Cloud ECS Service,cmdb_ci_cloud_ecs_service,Virtual Machine Object,cmdb_ci_cloud,06/03/2021 00:00
+AWS Cloud ECS Task,cmdb_ci_cloud_ecs_task,Virtual Machine Object,cmdb_ci_cloud,05/03/2021 23:37
+AWS Cloud ECS TaskDefinition,cmdb_ci_cloud_ecs_task_definition,Virtual Machine Object,cmdb_ci_cloud,05/03/2021 23:33
+AWS Datacenter,cmdb_ci_aws_datacenter,Logical Datacenter,cmdb_ci_aws,22/02/2018 19:23
+AWS Resource Name Endpoint,cmdb_ci_endpoint_arn,Endpoint,cmdb_ci_endpoint,05/03/2021 23:51
+AWS S3 Endpoint,cmdb_ci_aws_s3_endpoint,Endpoint,cmdb_ci_aws,05/03/2021 23:44
+Azure Datacenter,cmdb_ci_azure_datacenter,Logical Datacenter,cmdb_ci_azure,22/02/2018 19:23
+Azure Subscription,cmdb_ci_azure_subscription,Virtual Machine Object,cmdb_ci_azure,16/05/2019 18:12
+Batch Job,cmdb_ci_batch_job,Configuration Item,cmdb_ci_batch,11/08/2016 19:23
+BizTalk,cmdb_ci_appl_biztalk,Application,cmdb_ci_appl,11/08/2016 19:23
+BizTalk Connection Endpoint,cmdb_ci_endpoint_biztalk,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+BizTalk Inclusion,cmdb_ci_endpoint_biztalk_orch,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+BizTalk Orchestration,cmdb_ci_appl_biztalk_orch,Application,cmdb_ci_appl,11/08/2016 19:24
+Block Endpoint,cmdb_ci_endpoint_block,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Boundary Connection Qualifier,cmdb_ci_qualifier_boundary_connection,Qualifier,cmdb_ci_qualifier,11/08/2016 19:24
+Bridge Domain,cmdb_ci_bridge_domain,Virtual Machine Object,cmdb_ci_bridge,22/02/2018 19:24
+Buildings,cmdb_ci_building_facility,Facility Hardware,cmdb_ci_building,06/03/2015 17:57
+Bundled Resources,cmdb_ci_bundled_resources,Virtual Machine Object,cmdb_ci_bundled,22/02/2018 19:23
+Business Application,cmdb_ci_business_app,Configuration Item,cmdb_ci_business,16/05/2019 18:12
+Business Capability,cmdb_ci_business_capability,Configuration Item,cmdb_ci_business,16/05/2019 18:12
+Business Objects CMS Server Endpoint,cmdb_ci_endpoint_obj_cms_srv,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Business Process,cmdb_ci_business_process,Configuration Item,cmdb_ci_business,06/03/2015 17:57
+Business Service,cmdb_ci_service,Configuration Item,cmdb_ci_service,06/03/2015 17:57
+CA Enterprise Communicator,cmdb_ci_appl_ca,Application,cmdb_ci_appl,11/08/2016 19:23
+CA eTrust Directory Server,cmdb_ci_appl_ca_dir_server,Infrastructure Service,cmdb_ci_appl,11/08/2016 19:23
+CA Identity Manager Provisioning Server,cmdb_ci_appl_ca_id_man,Application,cmdb_ci_appl,11/08/2016 19:22
+CA Introscope Enterprise Manager,cmdb_ci_appl_ca_ent_man,Application,cmdb_ci_appl,11/08/2016 19:25
+Calculated Application Service,cmdb_ci_service_calculated,Mapped Application Service,cmdb_ci_service,26/11/2020 18:09
+Cassandra Cluster,cmdb_ci_cassandra_cluster,Cluster,cmdb_ci_cassandra,06/03/2021 00:53
+Cassandra Cluster Node,cmdb_ci_cassandra_cluster_node,Cluster Node,cmdb_ci_cassandra,06/03/2021 00:34
+Cassandra Endpoint,cmdb_ci_endpoint_cassandra,Endpoint,cmdb_ci_endpoint,06/03/2021 00:32
+Cassandra Instance,cmdb_ci_cassandra_instance,Database Instance,cmdb_ci_cassandra,06/03/2021 01:04
+Cassandra Keyspace,cmdb_ci_cassandra_keyspace,Database Catalog,cmdb_ci_cassandra,06/03/2021 00:22
+CIM Profiles,cmdb_ci_cim_profile,Configuration Item,cmdb_ci_cim,06/03/2015 17:57
+CIM Server,cmdb_ci_cim_server,Server,cmdb_ci_cim,06/03/2015 17:57
+Cisco Apic,cmdb_ci_cisco_apic,Logical Datacenter,cmdb_ci_cisco,22/02/2018 19:23
+Cisco CallManager,cmdb_ci_appl_cisco_call_man,Application,cmdb_ci_appl,11/08/2016 19:22
+Cisco CSM,cmdb_ci_lb_cisco_csm,Load Balancer,cmdb_ci_lb,11/08/2016 19:24
+Cisco CSS,cmdb_ci_lb_cisco_css,Load Balancer,cmdb_ci_lb,11/08/2016 19:23
+Cisco Fibre InterConnect,cmdb_ci_appl_cisco_fibre,Application,cmdb_ci_appl,11/08/2016 19:23
+Cisco Firewall Device,cmdb_ci_firewall_device_cisco,Firewall Device,cmdb_ci_firewall,06/03/2021 00:37
+Cisco GSS,cmdb_ci_lb_cisco_gss,Load Balancer,cmdb_ci_lb,22/02/2018 19:22
+Cisco UCS Blade,cmdb_ci_ucs_blade,Computer,cmdb_ci_ucs,11/08/2016 19:23
+Cisco UCS Chassis,cmdb_ci_ucs_chassis,Hardware,cmdb_ci_ucs,11/08/2016 19:24
+Cisco UCS Equipment,cmdb_ci_ucs_equipment,Hardware,cmdb_ci_ucs,11/08/2016 19:23
+Cisco UCS Rack Mount Unit,cmdb_ci_ucs_rack_unit,Computer,cmdb_ci_ucs,29/11/2018 18:12
+Citrix Application Icon,cmdb_ci_appl_citrix_app,Application,cmdb_ci_appl,11/08/2016 19:25
+Citrix Collector,cmdb_ci_appl_citrix_collector,Application,cmdb_ci_appl,11/08/2016 19:23
+Citrix Delivery Controller Endpoint,cmdb_ci_endpoint_dliver_cnrl,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+Citrix License server,cmdb_ci_appl_license_server,Application,cmdb_ci_appl,16/05/2019 18:12
+Citrix Netscaler,cmdb_ci_lb_netscaler,Load Balancer,cmdb_ci_lb,11/08/2016 19:24
+Citrix StoreFront App Icon Inc,cmdb_ci_endpoint_xenapp_citrx,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:25
+Citrix XenAPP or Presentation Server,cmdb_ci_appl_citrix_xenapp,Application,cmdb_ci_appl,11/08/2016 19:23
+Cloud App Server,cmdb_ci_cloud_appserver,Application Server,cmdb_ci_cloud,22/02/2018 19:23
+Cloud Authentication,cmdb_ci_cloud_authentication,Application,cmdb_ci_cloud,06/03/2021 00:07
+Cloud DataBase,cmdb_ci_cloud_database,Database Instance,cmdb_ci_cloud,22/02/2018 19:24
+Cloud DB Instance Inclusion,cmdb_ci_endpoint_cloud_db_instance,Inclusion Endpoint,cmdb_ci_endpoint,16/05/2019 18:12
+Cloud Directory,cmdb_ci_cloud_directory,Directory Server,cmdb_ci_cloud,22/02/2018 19:23
+Cloud Disk Type,cmdb_ci_disk_type,Virtual Machine Object,cmdb_ci_disk,05/03/2021 23:32
+Cloud Foundry Service,cmdb_ci_pcf_service,CloudFoundry Component,cmdb_ci_pcf,06/03/2021 00:10
+Cloud Foundry Service Plan,cmdb_ci_pcf_service_plan,CloudFoundry Component,cmdb_ci_pcf,05/03/2021 23:58
+Cloud Function,cmdb_ci_cloud_function,Application,cmdb_ci_cloud,06/03/2021 00:03
+Cloud Gateway,cmdb_ci_cloud_gateway,Application,cmdb_ci_cloud,05/03/2021 23:58
+Cloud Host,cmdb_ci_cloud_host,Virtualization Server,cmdb_ci_cloud,05/03/2021 23:20
+Cloud IP Address,cmdb_ci_cloud_ip_address,Virtual Machine Object,cmdb_ci_cloud,22/02/2018 19:23
+Cloud Key Pair,cmdb_ci_cloud_key_pair,Configuration Item,cmdb_ci_cloud,22/02/2018 19:23
+Cloud LB IPAddress,cmdb_ci_cloud_lb_ipaddress,Virtual Machine Object,cmdb_ci_cloud,22/02/2018 19:23
+Cloud Load Balancer,cmdb_ci_cloud_load_balancer,Virtual Machine Object,cmdb_ci_cloud,22/02/2018 19:23
+Cloud Load Balancer Health Service,cmdb_ci_lb_health_service,Virtual Machine Object,cmdb_ci_lb,06/03/2021 00:11
+Cloud Location Group,cmdb_ci_cloud_location_group,Virtual Machine Object,cmdb_ci_cloud,06/03/2021 00:08
+Cloud Messaging Service,cmdb_ci_cloud_messaging_service,Application,cmdb_ci_cloud,22/02/2018 19:23
+Cloud Mgmt Network Interface,cmdb_ci_nic,Network Adapter,cmdb_ci_nic,22/02/2018 19:22
+Cloud Mgmt Subnet,cmdb_ci_subnet,Configuration Item,cmdb_ci_subnet,11/08/2016 19:25
+Cloud Monitor Alarm,cmdb_ci_cloud_monitor_alarm,Virtual Machine Object,cmdb_ci_cloud,16/05/2019 18:12
+Cloud Monitor Notification,cmdb_ci_cloud_monitor_notification,Virtual Machine Object,cmdb_ci_cloud,16/05/2019 18:12
+Cloud Network,cmdb_ci_network,VMware vCenter Object,cmdb_ci_network,22/02/2018 19:23
+Cloud Object Storage,cmdb_ci_cloud_object_storage,Application,cmdb_ci_cloud,05/03/2021 23:49
+Cloud Organizations,cmdb_ci_cloud_org,Configuration Item,cmdb_ci_cloud,05/03/2021 23:33
+Cloud Price Base,cmdb_ci_cmp_price_base,Virtual Machine Object,cmdb_ci_cmp,19/02/2021 10:26
+Cloud Product Price Base,cmdb_ci_cmp_price_product_base,Virtual Machine Object,cmdb_ci_cmp,19/02/2021 10:26
+Cloud Public IP Address,cmdb_ci_cloud_public_ipaddress,Virtual Machine Object,cmdb_ci_cloud,22/02/2018 19:23
+Cloud Resource,cmdb_ci_cmp_resource,Virtual Machine Object,cmdb_ci_cmp,19/02/2021 10:25
+Cloud Resource Base,cmdb_ci_cloud_resource_base,Configuration Item,cmdb_ci_cloud,22/02/2018 19:23
+Cloud Service Account,cmdb_ci_cloud_service_account,Virtual Machine Object,cmdb_ci_cloud,29/08/2019 17:01
+Cloud Storage Account,cmdb_ci_cloud_storage_account,Virtual Machine Object,cmdb_ci_cloud,22/02/2018 19:23
+Cloud Subnet,cmdb_ci_cloud_subnet,Virtual Machine Object,cmdb_ci_cloud,22/02/2018 19:22
+Cloud Topic,cmdb_ci_cloud_topic,Virtual Machine Object,cmdb_ci_cloud,16/05/2019 18:13
+Cloud WebServer,cmdb_ci_cloud_webserver,Web Server,cmdb_ci_cloud,22/02/2018 19:23
+CloudFoundry Application,cmdb_ci_pcf_appl,CloudFoundry Component,cmdb_ci_pcf,06/03/2021 00:01
+CloudFoundry Cluster,cmdb_ci_pcf_foundation,CloudFoundry Component,cmdb_ci_pcf,05/03/2021 23:53
+CloudFoundry Component,cmdb_ci_pcf_component,Configuration Item,cmdb_ci_pcf,05/03/2021 23:31
+CloudFoundry Domain,cmdb_ci_pcf_domain,CloudFoundry Component,cmdb_ci_pcf,05/03/2021 23:47
+CloudFoundry Organization,cmdb_ci_pcf_organization,CloudFoundry Component,cmdb_ci_pcf,05/03/2021 23:54
+CloudFoundry Quota,cmdb_ci_pcf_quota,CloudFoundry Component,cmdb_ci_pcf,06/03/2021 00:12
+CloudFoundry Route,cmdb_ci_pcf_route,CloudFoundry Component,cmdb_ci_pcf,06/03/2021 00:04
+CloudFoundry Space,cmdb_ci_pcf_space,CloudFoundry Component,cmdb_ci_pcf,05/03/2021 23:31
+CloudFoundry Space Service Instance,cmdb_ci_pcf_space_instance,CloudFoundry Component,cmdb_ci_pcf,06/03/2021 00:04
+Cluster,cmdb_ci_cluster,Configuration Item,cmdb_ci_cluster,06/03/2015 17:57
+Cluster Node,cmdb_ci_cluster_node,Configuration Item,cmdb_ci_cluster,06/03/2015 17:57
+Cluster Node Resource,cmdb_ci_cluster_node_resource,,cmdb_ci_cluster,06/03/2015 17:57
+Cluster Resource,cmdb_ci_cluster_resource,Configuration Item,cmdb_ci_cluster,06/03/2015 17:57
+Cluster Resource Group,cmdb_ci_cluster_resource_group,Configuration Item,cmdb_ci_cluster,06/03/2021 00:02
+Cluster Virtual IP,cmdb_ci_cluster_vip,Configuration Item,cmdb_ci_cluster,06/03/2015 17:57
+Cluster VM Affinity Rule Info,cmdb_ci_cluster_vm_affinity_rule,VMWare vCenter Cluster DRS Rule,cmdb_ci_cluster,26/11/2020 18:08
+Cluster VM Dependency Rule Info,cmdb_ci_cluster_vm_dependency_rule,VMWare vCenter Cluster DRS Rule,cmdb_ci_cluster,26/11/2020 18:08
+Cluster VM Host Rule Info,cmdb_ci_cluster_vm_host_rule,VMWare vCenter Cluster DRS Rule,cmdb_ci_cluster,26/11/2020 18:08
+Coldfusion App Inclusion,cmdb_ci_coldfusion_app_inclusion,Inclusion Endpoint,cmdb_ci_coldfusion,06/03/2021 00:00
+Coldfusion Application,cmdb_ci_cf_application,Application Server Resource,cmdb_ci_cf,05/03/2021 23:35
+Coldfusion Server,cmdb_ci_coldfusion_server,Application Server,cmdb_ci_coldfusion,06/03/2021 00:05
+Communication Device,cmdb_ci_comm,Configuration Item,cmdb_ci_comm,06/03/2015 17:57
+Communication Hardware,cmdb_ci_comm_hardware,Hardware,cmdb_ci_comm,06/03/2021 00:52
+Composer,cmdb_ci_app_server_composer,Application Server,cmdb_ci_app,11/08/2016 19:22
+Compute Security Endpoint,cmdb_ci_endpoint_comp_security,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Compute Security Group,cmdb_ci_compute_security_group,Virtual Machine Object,cmdb_ci_compute,22/02/2018 19:23
+Compute Security Group Template,cmdb_ci_security_grp_template,Virtual Machine Object,cmdb_ci_security,22/02/2018 19:24
+Computer,cmdb_ci_computer,Hardware,cmdb_ci_computer,06/03/2015 17:57
+Computer Peripheral,cmdb_ci_peripheral,Configuration Item,cmdb_ci_peripheral,06/03/2015 17:57
+Computer Room (Deprecated),cmdb_ci_computer_room,Configuration Item,cmdb_ci_computer,06/03/2015 17:57
+Computer Room AC,cmdb_ci_crac,Configuration Item,cmdb_ci_crac,06/03/2015 17:57
+Configuration file,cmdb_ci_config_file,Configuration Item,cmdb_ci_config,11/08/2016 19:22
+Configuration Item,cmdb_ci,Base Configuration Item,cmdb_ci,06/03/2015 17:57
+Connect-It Service,cmdb_ci_appl_connectit,Application,cmdb_ci_appl,11/08/2016 19:24
+Control-M,cmdb_ci_appl_controlm,Application,cmdb_ci_appl,11/08/2016 19:23
+Converged Infrastructure,cmdb_ci_converged_infra,Hardware,cmdb_ci_converged,06/03/2021 00:17
+CRM Component Endpoint,cmdb_ci_endpoint_crm,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+CSU/DSU,cmdb_ci_csu_dsu_network,Network Gear,cmdb_ci_csu,11/08/2016 19:22
+CTG Endpoint,cmdb_ci_endpoint_ctg,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+Custom Application,cmdb_ci_custom_application,Configuration Item,cmdb_ci_custom,06/03/2021 00:34
+Custom Application Configuration Item,cmdb_ci_m2m_custom_application_ci,,cmdb_ci_m2m,06/03/2021 00:22
+Customer Gateway,cmdb_ci_customer_gateway,Virtual Machine Object,cmdb_ci_customer,22/02/2018 19:24
+Customer Gateway Endpoint,cmdb_ci_endpoint_cust_gateway,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Customization Spec,cmdb_ci_customization_spec,Virtual Machine Object,cmdb_ci_customization,22/02/2018 19:23
+Data Center (Deprecated),cmdb_ci_datacenter,Configuration Item,cmdb_ci_datacenter,06/03/2015 17:57
+Data Center Zone,cmdb_ci_zone,Configuration Item,cmdb_ci_zone,06/03/2015 17:57
+Data Power,cmdb_ci_app_server_datapower,Application Server,cmdb_ci_app,11/08/2016 19:22
+Data Power Domain,cmdb_ci_app_server_dp_domain,Application Server,cmdb_ci_app,11/08/2016 19:24
+Data Power Hosting Server,cmdb_ci_datapower_server,Server,cmdb_ci_datapower,22/02/2018 19:23
+Database,cmdb_ci_database,Configuration Item,cmdb_ci_database,06/03/2015 17:57
+Database Catalog,cmdb_ci_db_catalog,Configuration Item,cmdb_ci_db,06/03/2015 17:57
+Database Instance,cmdb_ci_db_instance,Application,cmdb_ci_db,06/03/2015 17:57
+Datastore,cmdb_ci_datastore,VMware vCenter Object,cmdb_ci_datastore,22/02/2018 19:22
+Datastore Disk,cmdb_ci_vcenter_datastore_disk,Configuration Item,cmdb_ci_vcenter,11/08/2016 19:23
+DB Instance Size,cmdb_ci_db_instance_size,Database Instance,cmdb_ci_db,05/03/2021 23:45
+DB2 Catalog,cmdb_ci_db_db2_catalog,Database Catalog,cmdb_ci_db,06/03/2015 17:57
+DB2 Instance,cmdb_ci_db_db2_instance,Database Instance,cmdb_ci_db,06/03/2015 17:57
+DB2 UDB Endpoint,cmdb_ci_endpoint_db2sql,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+DCTM Connection to broker Endpoint,cmdb_ci_endpoint_dctm_broker,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+DCTM Index Agent Connection Endpoint,cmdb_ci_endpoint_dctm_index,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+DCTM Job Processor Endpoint,cmdb_ci_endpoint_dctm_job,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Delivery Controler,cmdb_ci_appl_delivery_controler,Application,cmdb_ci_appl,11/08/2016 19:22
+Desktop (Deprecated),cmdb_ci_pc_hardware,Computer,cmdb_ci_pc,11/08/2016 19:24
+Desktop Software,cmdb_ci_desktop_software,Software,cmdb_ci_desktop,06/03/2015 17:57
+Direct Current Plant Battery Bank,cmdb_ci_dc_plant_battery_pwr,Power Equipment,cmdb_ci_dc,06/03/2015 17:57
+Direct Current Plant Equipment,cmdb_ci_dc_plant_eq_power_eq,Power Equipment,cmdb_ci_dc,06/03/2015 17:57
+Directory Server,cmdb_ci_directory_server,Infrastructure Service,cmdb_ci_directory,06/03/2015 17:57
+Disk,cmdb_ci_disk,Storage,cmdb_ci_disk,06/03/2015 17:57
+Disk Partition,cmdb_ci_disk_partition,Configuration Item,cmdb_ci_disk,06/03/2015 17:57
+Display Device,cmdb_ci_display,IoT Device,cmdb_ci_display,06/03/2021 01:04
+Display Hardware,cmdb_ci_display_hardware,Configuration Item,cmdb_ci_display,11/08/2016 19:24
+Display Monitor Control,cmdb_ci_monitor_control,Multimedia Device,cmdb_ci_monitor,06/03/2021 00:25
+DNS Alias,cmdb_ci_dns_alias,Alias,cmdb_ci_dns,11/08/2016 19:25
+DNS Name,cmdb_ci_dns_name,Configuration Item,cmdb_ci_dns,06/03/2015 17:57
+DocBase Connection Endpoint,cmdb_ci_endpoint_docbase,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+Docker Container,cmdb_ci_docker_container,Operating-system-level Virtualization Container,cmdb_ci_docker,22/02/2018 19:23
+Docker Engine,cmdb_ci_docker_engine,Operating-system-level Virtualization Engine,cmdb_ci_docker,22/02/2018 19:23
+Docker Image,cmdb_ci_docker_image,Operating-system-level Virtualization Image,cmdb_ci_docker,22/02/2018 19:23
+Docker Image Tag,cmdb_ci_docker_image_tag,Operating-system-level Virtualization Image Tag,cmdb_ci_docker,22/02/2018 19:23
+Docker Local Image,cmdb_ci_docker_local_image,Operating-system-level Virtualization Local Image,cmdb_ci_docker,22/02/2018 19:23
+Documentum Brava Job Processor,cmdb_ci_appl_doc_brava_proc,Application,cmdb_ci_appl,11/08/2016 19:23
+Documentum Brava License Server,cmdb_ci_appl_doc_brava_server,Application,cmdb_ci_appl,11/08/2016 19:23
+Documentum Broker,cmdb_ci_appl_doc_docbroker,Application,cmdb_ci_appl,11/08/2016 19:24
+Documentum DocBase,cmdb_ci_appl_doc_docbase,Application,cmdb_ci_appl,11/08/2016 19:25
+Domino,cmdb_ci_app_server_domino,Application Server,cmdb_ci_app,06/03/2015 17:57
+Drone,cmdb_ci_drone,IoT Device,cmdb_ci_drone,06/03/2021 01:06
+DRS VM Config,cmdb_ci_drs_vm_config,Configuration Item,cmdb_ci_drs,27/02/2020 18:14
+Dynamic CI Group,cmdb_ci_query_based_service,Application Service,cmdb_ci_query,29/08/2019 17:02
+Dynamic CRM Component,cmdb_ci_appl_ms_dynamic_crm,Application,cmdb_ci_appl,11/08/2016 19:23
+Dynamic Scaling Policy,cmdb_ci_sa_dynamic_policy,Scaling Policy,cmdb_ci_sa,16/05/2019 18:13
+DynamoDB Global Table,cmdb_ci_dynamodb_global_table,Database Instance,cmdb_ci_dynamodb,05/03/2021 23:55
+DynamoDB Table,cmdb_ci_dynamodb_table,Database Instance,cmdb_ci_dynamodb,05/03/2021 23:27
+EBS Inc Modules,cmdb_ci_endpoint_ebs,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+EC2 Virtual Machine Instance,cmdb_ci_ec2_instance,Virtual Machine Instance,cmdb_ci_ec2,06/03/2015 17:57
+EJB Endpoint,cmdb_ci_endpoint_ejb,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Email Server,cmdb_ci_email_server,Infrastructure Service,cmdb_ci_email,06/03/2015 17:57
+EMS Endpoint,cmdb_ci_endpoint_ems,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+EMS JNDI Endpoint,cmdb_ci_endpoint_ems_jndi,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+EMS Queue,cmdb_ci_appl_tibco_queue,Application,cmdb_ci_appl,11/08/2016 19:24
+EMS Queue EP,cmdb_ci_endpoint_ems_queue,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+Endpoint,cmdb_ci_endpoint,Configuration Item,cmdb_ci_endpoint,11/08/2016 19:22
+Enterprise Vault,cmdb_ci_email_server_ent_vault,Infrastructure Service,cmdb_ci_email,11/08/2016 19:24
+Enterprise Vault Endpoint,cmdb_ci_endpoint_ent_vault,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Entrypoint Marker,cmdb_ci_qualifier_entrypoint,Qualifier,cmdb_ci_qualifier,11/08/2016 19:25
+Environment,cmdb_ci_environment,Configuration Item,cmdb_ci_environment,06/03/2015 17:57
+epic agent,cmdb_ci_epic_agent,Application,cmdb_ci_epic,16/05/2019 18:13
+epic cache,cmdb_ci_epic_cache,Application,cmdb_ci_epic,22/02/2018 19:23
+epicd,cmdb_ci_endpoint_epicd,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+epicd app server,cmdb_ci_epicd_app_server,Application,cmdb_ci_epicd,22/02/2018 19:23
+ESX Resource Pool,cmdb_ci_esx_resource_pool,VMware vCenter Object,cmdb_ci_esx,06/03/2015 17:57
+ESX Server,cmdb_ci_esx_server,VMware vCenter Server Object,cmdb_ci_esx,06/03/2015 17:57
+Exchange 2013 Endpoint,cmdb_ci_endpoint_exchange,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Exchange Client Access Server,cmdb_ci_exchange_cas,Exchange Service Component,cmdb_ci_exchange,06/03/2015 17:57
+Exchange Edge Transport Server,cmdb_ci_exchange_edge_transport_server,Exchange Service Component,cmdb_ci_exchange,06/03/2015 17:57
+Exchange Hub Transport Server,cmdb_ci_exchange_hub_transport_server,Exchange Service Component,cmdb_ci_exchange,06/03/2015 17:57
+Exchange MailBox,cmdb_ci_exchange_mailbox,Exchange Service Component,cmdb_ci_exchange,11/08/2016 19:22
+Exchange Mailbox Server,cmdb_ci_exchange_mailbox_server,Exchange Service Component,cmdb_ci_exchange,06/03/2015 17:57
+Exchange Service Component,cmdb_ci_exchange_service_component,Application,cmdb_ci_exchange,06/03/2015 17:57
+ExchangeBackEndServer,cmdb_ci_exchange_backend,Exchange Service Component,cmdb_ci_exchange,11/08/2016 19:24
+ExchangeFrontEndServer,cmdb_ci_exchange_frontend,Exchange Service Component,cmdb_ci_exchange,11/08/2016 19:24
+ExchangeHub,cmdb_ci_exchange_hub,Exchange Service Component,cmdb_ci_exchange,11/08/2016 19:23
+External Connection Qualifier,cmdb_ci_qualifier_external_connection,Qualifier,cmdb_ci_qualifier,11/08/2016 19:24
+External Network Endpoint,cmdb_ci_endpoint_extnetwork,Endpoint,cmdb_ci_endpoint,22/02/2018 19:22
+F5 BIG-IP,cmdb_ci_lb_bigip,Load Balancer,cmdb_ci_lb,06/03/2015 17:57
+F5 BigIP GTM,cmdb_ci_lb_f5_gtm,Load Balancer,cmdb_ci_lb,11/08/2016 19:24
+F5 BigIP LTM,cmdb_ci_lb_f5_ltm,Load Balancer,cmdb_ci_lb,11/08/2016 19:23
+F5 Mirror Endpoint,cmdb_ci_endpoint_f5,Endpoint,cmdb_ci_endpoint,11/08/2016 19:25
+Facility Hardware,cmdb_ci_facility_hardware,Configuration Item,cmdb_ci_facility,06/03/2015 17:57
+Fast Search,cmdb_ci_appl_fastsearch,Application,cmdb_ci_appl,11/08/2016 19:22
+Fast Search Endpoint,cmdb_ci_endpoint_fastsearch,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+FDDI Cards,cmdb_ci_fddi_network,Network Gear,cmdb_ci_fddi,11/08/2016 19:23
+Fibre Channel Disk,cmdb_ci_fc_disk,SAN Disk,cmdb_ci_fc,06/03/2015 17:57
+Fibre Channel Export,cmdb_ci_fc_export,SAN Export,cmdb_ci_fc,06/03/2015 17:57
+Fibre Channel Port,cmdb_ci_fc_port,Configuration Item,cmdb_ci_fc,06/03/2015 17:57
+File System,cmdb_ci_file_system,Storage Volume,cmdb_ci_file,06/03/2015 17:57
+Firewall,cmdb_ci_ip_firewall,Network Gear,cmdb_ci_ip,06/03/2015 17:57
+Firewall Cluster,cmdb_ci_firewall_cluster,Cluster,cmdb_ci_firewall,06/03/2021 00:53
+Firewall Device,cmdb_ci_firewall_device,Firewall,cmdb_ci_firewall,06/03/2021 00:19
+Firewall Device Group,cmdb_ci_firewall_device_group,Configuration Item,cmdb_ci_firewall,06/03/2021 00:17
+Firewall Hardware,cmdb_ci_firewall_network,Network Gear,cmdb_ci_firewall,11/08/2016 19:24
+Firewall Manager,cmdb_ci_firewall_manager,Configuration Item,cmdb_ci_firewall,06/03/2021 00:18
+Firewall Security Policy,cmdb_ci_firewall_sec_policy,Configuration Item,cmdb_ci_firewall,06/03/2021 00:36
+Fortinet Firewall Cluster,cmdb_ci_firewall_cluster_fortinet,Firewall Cluster,cmdb_ci_firewall,06/03/2021 00:58
+Fortinet Firewall Device,cmdb_ci_firewall_device_fortinet,Firewall Device,cmdb_ci_firewall,06/03/2021 00:20
+FromCluster_to_RabbitMQ Endpoint,cmdb_ci_endpoint_fromcluster_t,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+FTP Endpoint,cmdb_ci_endpoint_ftp,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+FTP Server,cmdb_ci_ftp_server,Infrastructure Service,cmdb_ci_ftp,06/03/2015 17:57
+Fuel Tank,cmdb_ci_fuel_tank,Facility Hardware,cmdb_ci_fuel,06/03/2015 17:57
+Game Console,cmdb_ci_game_console,Multimedia Device,cmdb_ci_game,06/03/2021 00:52
+Generic Application,cmdb_ci_appl_generic,Application,cmdb_ci_appl,11/08/2016 19:24
+GlassFish,cmdb_ci_appl_glassfish,Application Server,cmdb_ci_appl,11/08/2016 19:24
+GlassFish WAR,cmdb_ci_appl_glassfish_war,Application Server,cmdb_ci_appl,11/08/2016 19:24
+GlassFish WAR Inc,cmdb_ci_endpoint_glassfish_war,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Google Datacenter,cmdb_ci_google_datacenter,Logical Datacenter,cmdb_ci_google,05/03/2021 23:25
+Google Organization Folder,cmdb_ci_gcp_folder,Configuration Item,cmdb_ci_gcp,06/03/2021 01:08
+Google Organization Project,cmdb_ci_gcp_project,Virtual Machine Object,cmdb_ci_gcp,06/03/2021 00:23
+Groundwork,cmdb_ci_appl_groundwork,Application,cmdb_ci_appl,11/08/2016 19:23
+Group,cmdb_ci_group,Configuration Item,cmdb_ci_group,06/03/2015 17:57
+HA Proxy,cmdb_ci_directory_ha,Infrastructure Service,cmdb_ci_directory,11/08/2016 19:23
+Handheld Computing Device,cmdb_ci_handheld_computing,Computer,cmdb_ci_handheld,06/03/2021 00:31
+HAProxy Load Balancer,cmdb_ci_lb_haproxy,Load Balancer Application,cmdb_ci_lb,11/08/2016 19:22
+Hardware,cmdb_ci_hardware,Configuration Item,cmdb_ci_hardware,06/03/2015 17:57
+Hardware Type,cmdb_ci_compute_template,Virtual Machine Object,cmdb_ci_compute,22/02/2018 19:23
+HBase Instance,cmdb_ci_db_hbase_instance,Database Instance,cmdb_ci_db,06/03/2015 17:58
+Hidden Connection Qualifier,cmdb_ci_qualifier_hidden_conn,Qualifier,cmdb_ci_qualifier,11/08/2016 19:22
+Host Cluster,cmdb_ci_host_cluster,VMware vCenter Object,cmdb_ci_host,22/02/2018 19:22
+HP Operations Manager,cmdb_ci_appl_hp_operations,Application,cmdb_ci_appl,11/08/2016 19:24
+HP Quality Center,cmdb_ci_appl_hp_qc,Application,cmdb_ci_appl,11/08/2016 19:24
+HP Service Manager,cmdb_ci_appl_hp_service,Application,cmdb_ci_appl,11/08/2016 19:23
+HP SM Index Server,cmdb_ci_appl_hp_index,Application,cmdb_ci_appl,11/08/2016 19:24
+HP SM KnowledgeBase,cmdb_ci_appl_hp_sm_kb,Application,cmdb_ci_appl,11/08/2016 19:24
+HP uCMDB,cmdb_ci_app_server_hp_ucmdb,Application Server,cmdb_ci_app,11/08/2016 19:22
+HPOM Endpoint,cmdb_ci_endpoint_hpom,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+HPUX Server,cmdb_ci_hpux_server,UNIX Server,cmdb_ci_hpux,06/03/2015 17:57
+HTTP Listener to WMB Dependency Endpoint,cmdb_ci_endpoint_listener_wmb,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+HTTP(S) Endpoint,cmdb_ci_endpoint_http,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Hub Hardware,cmdb_ci_hub_network,Network Gear,cmdb_ci_hub,11/08/2016 19:24
+Human Machine Interface,cmdb_ci_hmi,Manufacturing Device,cmdb_ci_hmi,06/03/2021 00:57
+HVAC Equipment,cmdb_ci_hvac,Facility Hardware,cmdb_ci_hvac,06/03/2015 17:57
+Hyper-V Cluster,cmdb_ci_hyper_v_cluster,Hyper-V Object,cmdb_ci_hyper,06/03/2015 17:57
+Hyper-V Object,cmdb_ci_hyper_v_object,Virtual Machine Object,cmdb_ci_hyper,06/03/2015 17:57
+Hyper-V Resource Pool,cmdb_ci_hyper_v_resource_pool,Hyper-V Object,cmdb_ci_hyper,06/03/2015 17:57
+Hyper-V Resource Pool Component,cmdb_ci_hyper_v_rpool_comp,Hyper-V Object,cmdb_ci_hyper,30/10/2012 15:07
+Hyper-V Server,cmdb_ci_hyper_v_server,Virtualization Server,cmdb_ci_hyper,06/03/2015 17:57
+Hyper-V Virtual Machine Instance,cmdb_ci_hyper_v_instance,Virtual Machine Instance,cmdb_ci_hyper,06/03/2015 17:57
+Hyper-V Virtual Network,cmdb_ci_hyper_v_network,Hyper-V Object,cmdb_ci_hyper,06/03/2015 17:57
+IBM CICS,cmdb_ci_appl_ibm_cics,Application,cmdb_ci_appl,11/08/2016 19:24
+IBM Cloud Space,cmdb_ci_cloud_space,Configuration Item,cmdb_ci_cloud,05/03/2021 23:59
+IBM CTG,cmdb_ci_appl_ibm_ctg,Application,cmdb_ci_appl,11/08/2016 19:24
+IBM Datacenter,cmdb_ci_ibm_datacenter,Logical Datacenter,cmdb_ci_ibm,05/03/2021 23:41
+IBM Frame,cmdb_ci_ibm_frame,Server,cmdb_ci_ibm,06/03/2021 01:06
+IBM HMC Processor pool,cmdb_ci_processor_pool,Virtual Machine Object,cmdb_ci_processor,06/03/2021 01:07
+IBM HMC Server,cmdb_ci_hmc_server,Server,cmdb_ci_hmc,06/03/2021 00:51
+IBM LPAR Instance,cmdb_ci_lpar_instance,Virtual Machine Instance,cmdb_ci_lpar,06/03/2021 01:00
+IBM Mainframe,cmdb_ci_mainframe,Server,cmdb_ci_mainframe,06/03/2015 17:57
+IBM Mainframe LPAR,cmdb_ci_mainframe_lpar,Server,cmdb_ci_mainframe,06/03/2015 17:57
+IBM Websphere,cmdb_ci_app_server_websphere,Application Server,cmdb_ci_app,06/03/2015 17:57
+IBM WebSphere Message Broker,cmdb_ci_appl_ibm_wmb,Application,cmdb_ci_appl,11/08/2016 19:25
+IBM WebSphere MQ,cmdb_ci_appl_ibm_wmq,Application,cmdb_ci_appl,11/08/2016 19:24
+IBM WebSphere MQ Queue,cmdb_ci_appl_ibm_wmq_queue,Application,cmdb_ci_appl,11/08/2016 19:23
+IBM WMB Http Listener,cmdb_ci_appl_ibm_wmb_listener,Application,cmdb_ci_appl,11/08/2016 19:24
+IBM zOS server,cmdb_ci_ibm_zos_server,Server,cmdb_ci_ibm,16/05/2019 18:13
+IIFP,cmdb_ci_directory_iifp,Infrastructure Service,cmdb_ci_directory,11/08/2016 19:23
+IIFP Endpoint,cmdb_ci_endpoint_iifp,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+IIS Virtual Directory,cmdb_ci_iisdirectory,Infrastructure Service,cmdb_ci_iisdirectory,11/08/2016 19:24
+IIS Website,cmdb_ci_endpoint_iis,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Image,cmdb_ci_os_template,Virtual Machine Object,cmdb_ci_os,22/02/2018 19:23
+Imaging Device,cmdb_ci_imaging,IoT Device,cmdb_ci_imaging,06/03/2021 00:55
+Imaging Hardware,cmdb_ci_imaging_hardware,Configuration Item,cmdb_ci_imaging,11/08/2016 19:22
+IMAP Endpoint,cmdb_ci_endpoint_imap,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Inclusion Endpoint,cmdb_ci_endpoint_inclusion,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+Incomplete IP Identified Device,cmdb_ci_incomplete_ip,Configuration Item,cmdb_ci_incomplete,06/03/2021 01:13
+Inetinfo service,cmdb_ci_inetinfo,Infrastructure Service,cmdb_ci_inetinfo,11/08/2016 19:23
+Information Object,cmdb_ci_information_object,Configuration Item,cmdb_ci_information,27/02/2020 18:14
+Informix Catalog,cmdb_ci_db_informix_catalog,Database Instance,cmdb_ci_db,05/03/2021 23:54
+Informix Catalog Inclusion,cmdb_ci_db_informix_catalog_inclusion,Inclusion Endpoint,cmdb_ci_db,05/03/2021 23:48
+Informix Instance,cmdb_ci_db_informix_instance,Database Instance,cmdb_ci_db,05/03/2021 23:36
+Informix Server Endpoint,cmdb_ci_endpoint_informix_server,Endpoint,cmdb_ci_endpoint,05/03/2021 23:26
+Infrastructure Service,cmdb_ci_infra_service,Application,cmdb_ci_infra,06/03/2015 17:57
+Infrastructure Software,cmdb_ci_inf_software,Software,cmdb_ci_inf,06/03/2015 17:57
+Installed Bundles,cmdb_ci_installed_bundles,Virtual Machine Object,cmdb_ci_installed,22/02/2018 19:23
+Instance template,cmdb_ci_instance_template,Virtual Machine Object,cmdb_ci_instance,05/03/2021 23:35
+inter connect,cmdb_ci_inter_connect,Application,cmdb_ci_inter,22/02/2018 19:23
+Inter Connect Endpoint,cmdb_ci_endpoint_inter_connect,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Interconnect Instance,cmdb_ci_interconnect_instance,Application,cmdb_ci_interconnect,16/05/2019 18:12
+Internet Gateway,cmdb_ci_internet_gateway,Virtual Machine Object,cmdb_ci_internet,22/02/2018 19:23
+Internet Gateway Endpoint,cmdb_ci_endpoint_intgateway,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Intrusion Detection System,cmdb_ci_ids_network,Network Gear,cmdb_ci_ids,11/08/2016 19:22
+IoT Device,cmdb_ci_iot,Hardware,cmdb_ci_iot,06/03/2021 00:13
+IoT Gateway,cmdb_ci_iot_gateway,Converged Infrastructure,cmdb_ci_iot,06/03/2021 00:42
+IP Address,cmdb_ci_ip_address,Configuration Item,cmdb_ci_ip,06/03/2015 17:57
+IP Camera,cmdb_ci_ip_camera,Imaging Device,cmdb_ci_ip,06/03/2021 00:55
+IP Device,cmdb_ci_ip_device,Configuration Item,cmdb_ci_ip,06/03/2015 17:57
+IP Network,cmdb_ci_ip_network,Configuration Item,cmdb_ci_ip,06/03/2015 17:57
+IP Phone,cmdb_ci_ip_phone,Configuration Item,cmdb_ci_ip,06/03/2015 17:57
+IP Server,cmdb_ci_ip_server,Infrastructure Service,cmdb_ci_ip,06/03/2015 17:57
+IP Service Instance,cmdb_ci_ip_service,Configuration Item,cmdb_ci_ip,06/03/2015 17:57
+Iplanet Web Server,cmdb_ci_iplanet_web_server,Web Server,cmdb_ci_iplanet,11/08/2016 19:23
+ISA Server,cmdb_ci_lb_isa,Load Balancer,cmdb_ci_lb,11/08/2016 19:23
+ISAM Server,cmdb_ci_isam_server,Server,cmdb_ci_isam,22/02/2018 19:23
+iSCSI Disk,cmdb_ci_iscsi_disk,SAN Disk,cmdb_ci_iscsi,06/03/2015 17:57
+ISCSI Endpoint,cmdb_ci_endpoint_iscsi,Endpoint,cmdb_ci_endpoint,22/02/2018 19:24
+iSCSI Export,cmdb_ci_iscsi_export,SAN Export,cmdb_ci_iscsi,11/08/2016 19:24
+ITAM Asset Center,cmdb_ci_appl_itam,Application,cmdb_ci_appl,11/08/2016 19:23
+ITAM Asset Center Endpoint,cmdb_ci_endpoint_itam,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+J2EE EAR,cmdb_ci_endpoint_j2ee_ear,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+JavaServer,cmdb_ci_app_server_java,Application Server,cmdb_ci_app,06/03/2015 17:57
+JBoss,cmdb_ci_app_server_jboss,Application Server,cmdb_ci_app,06/03/2015 17:57
+Jboss Fuse,cmdb_ci_appl_jboss_fuse,Application,cmdb_ci_appl,05/03/2021 23:50
+Jboss module,cmdb_ci_app_server_jb_module,Application Server,cmdb_ci_app,11/08/2016 19:24
+Jboss Module Inclusion,cmdb_ci_endpoint_jboss,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+JES,cmdb_ci_email_server_jes,Infrastructure Service,cmdb_ci_email,11/08/2016 19:23
+JMS Flow Endpoint,cmdb_ci_endpoint_jms_flow,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+JMS Queue,cmdb_ci_endpoint_jms_queue,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+JMS Server Endpoint,cmdb_ci_endpoint_jms_server,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Jrun,cmdb_ci_app_server_jrun,Application Server,cmdb_ci_app,11/08/2016 19:24
+Jrun WAR,cmdb_ci_app_server_jrun_war,Application Server,cmdb_ci_app,11/08/2016 19:22
+Jrun WAR Inc,cmdb_ci_endpoint_jrun,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Juniper Firewall Cluster,cmdb_ci_firewall_cluster_juniper,Firewall Cluster,cmdb_ci_firewall,06/03/2021 01:01
+Juniper Firewall Device,cmdb_ci_firewall_device_juniper,Firewall Device,cmdb_ci_firewall,06/03/2021 00:39
+Kubernetes Cluster,cmdb_ci_kubernetes_cluster,Kubernetes Component,cmdb_ci_kubernetes,06/03/2021 00:02
+Kubernetes Component,cmdb_ci_kubernetes_component,Configuration Item,cmdb_ci_kubernetes,05/03/2021 23:29
+Kubernetes DaemonSet,cmdb_ci_kubernetes_daemonset,Kubernetes Workload,cmdb_ci_kubernetes,05/03/2021 23:46
+Kubernetes Deployment,cmdb_ci_kubernetes_deployment,Kubernetes Workload,cmdb_ci_kubernetes,06/03/2021 00:09
+Kubernetes Namespace,cmdb_ci_kubernetes_namespace,Kubernetes Component,cmdb_ci_kubernetes,05/03/2021 23:52
+Kubernetes Node,cmdb_ci_kubernetes_node,Kubernetes Component,cmdb_ci_kubernetes,05/03/2021 23:30
+Kubernetes Pod,cmdb_ci_kubernetes_pod,Kubernetes Component,cmdb_ci_kubernetes,05/03/2021 23:43
+Kubernetes Service,cmdb_ci_kubernetes_service,Kubernetes Component,cmdb_ci_kubernetes,05/03/2021 23:50
+Kubernetes StatefulSet,cmdb_ci_kubernetes_statefulset,Kubernetes Workload,cmdb_ci_kubernetes,05/03/2021 23:40
+Kubernetes Volume,cmdb_ci_kubernetes_volume,Kubernetes Component,cmdb_ci_kubernetes,05/03/2021 23:41
+Kubernetes Workload,cmdb_ci_kubernetes_workload,Kubernetes Component,cmdb_ci_kubernetes,05/03/2021 23:40
+KVM,cmdb_ci_kvm,Virtual Machine HyperVisor,cmdb_ci_kvm,06/03/2015 17:57
+KVM Object,cmdb_ci_kvm_object,Virtual Machine Object,cmdb_ci_kvm,06/03/2015 17:57
+KVM Storage Pool,cmdb_ci_kvm_storage_pool,KVM Object,cmdb_ci_kvm,06/03/2015 17:57
+KVM Storage Volume,cmdb_ci_kvm_storage_volume,KVM Object,cmdb_ci_kvm,06/03/2015 17:57
+KVM Virtual Machine Instance,cmdb_ci_kvm_vm_instance,Virtual Machine Instance,cmdb_ci_kvm,06/03/2015 17:57
+LB Backend Server,cmdb_ci_lb_backend_server,Virtual Machine Object,cmdb_ci_lb,22/02/2018 19:23
+LB Cookie Stickiness Policy,cmdb_ci_lb_ckstickinesspolicy,Virtual Machine Object,cmdb_ci_lb,22/02/2018 19:23
+LB Datacenter,cmdb_ci_lb_datacenter,Logical Datacenter,cmdb_ci_lb,22/02/2018 19:23
+LDAP DB,cmdb_ci_directory_ldap,LDAP Service,cmdb_ci_directory,11/08/2016 19:24
+LDAP DB EP,cmdb_ci_endpoint_ldap_db,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+LDAP Endpoint,cmdb_ci_endpoint_ldap,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+LDAP Service,cmdb_ci_infra_service_ldap,Infrastructure Service,cmdb_ci_infra,06/03/2015 17:57
+LIF,cmdb_ci_lif,Virtual Machine Object,cmdb_ci_lif,22/02/2018 19:23
+Linux Server,cmdb_ci_linux_server,Server,cmdb_ci_linux,06/03/2015 17:57
+Load Balancer,cmdb_ci_lb,Server,cmdb_ci_lb,06/03/2015 17:57
+Load Balancer Application,cmdb_ci_lb_appl,Application,cmdb_ci_lb,06/01/2016 04:04
+Load Balancer Interface,cmdb_ci_lb_interface,Configuration Item,cmdb_ci_lb,06/03/2015 17:57
+Load Balancer Listener,cmdb_ci_lb_listener,Virtual Machine Object,cmdb_ci_lb,22/02/2018 19:23
+Load Balancer Pool,cmdb_ci_lb_pool,Configuration Item,cmdb_ci_lb,06/03/2015 17:57
+Load Balancer Pool Member,cmdb_ci_lb_pool_member,Configuration Item,cmdb_ci_lb,06/03/2015 17:57
+Load Balancer Service,cmdb_ci_lb_service,Configuration Item,cmdb_ci_lb,06/03/2015 17:57
+Load Balancer Template,cmdb_ci_lb_template,Virtual Machine Object,cmdb_ci_lb,22/02/2018 19:23
+Load Balancer VLAN,cmdb_ci_lb_vlan,Configuration Item,cmdb_ci_lb,06/03/2015 17:57
+Logical Datacenter,cmdb_ci_logical_datacenter,VMware vCenter Object,cmdb_ci_logical,22/02/2018 19:23
+Logical Partition,cmdb_ci_lpar,Configuration Item,cmdb_ci_lpar,11/08/2016 19:24
+Lotus Domino HTTP Server,cmdb_ci_web_domino,Application,cmdb_ci_web,11/08/2016 19:24
+LPAR Resource,cmdb_ci_lpar_resource,Configuration Item,cmdb_ci_lpar,06/03/2021 00:25
+LVM Pool,cmdb_ci_lvm_pool,Storage Pool,cmdb_ci_lvm,06/03/2015 17:57
+LVM Pool Member,cmdb_ci_lvm_pool_member,Storage Pool Member,cmdb_ci_lvm,06/03/2015 17:57
+Mainframe Hardware,cmdb_ci_mainframe_hardware,Computer,cmdb_ci_mainframe,11/08/2016 19:24
+Management Server,cmdb_ci_config_automation_server,Application,cmdb_ci_config,06/03/2015 17:58
+Manual CI Endpoint Qualifier,cmdb_ci_qualifier_manual_ci_endpoint,Qualifier,cmdb_ci_qualifier,16/05/2019 18:13
+Manual Connection Qualifier,cmdb_ci_qualifier_manual_connection,Qualifier,cmdb_ci_qualifier,11/08/2016 19:25
+Manual Endpoint,cmdb_ci_endpoint_manual,Endpoint,cmdb_ci_endpoint,16/05/2019 18:13
+Manual Service,cmdb_ci_service_manual,Application Service,cmdb_ci_service,29/08/2019 17:02
+Manufacturing Device,cmdb_ci_manufacturing,IoT Device,cmdb_ci_manufacturing,06/03/2021 00:15
+MAPI Endpoint,cmdb_ci_endpoint_mapi,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+MAPI-HUB Endpoint,cmdb_ci_endpoint_mapi_hub,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+Mapped Application Service,cmdb_ci_service_discovered,Application Service,cmdb_ci_service,16/05/2019 18:14
+Mass Storage Device,cmdb_ci_msd,Hardware,cmdb_ci_msd,06/03/2015 17:57
+Media Player,cmdb_ci_media_player,Multimedia Device,cmdb_ci_media,06/03/2021 00:56
+Medical Device,cmdb_ci_medical,IoT Device,cmdb_ci_medical,06/03/2021 00:13
+Medical Diagnostic Device,cmdb_ci_med_diagnostic,Medical Device,cmdb_ci_med,06/03/2021 00:47
+Medical Measuring Device,cmdb_ci_med_measuring,Medical Device,cmdb_ci_med,06/03/2021 00:57
+Medical Monitoring Device,cmdb_ci_med_monitoring,Medical Device,cmdb_ci_med,06/03/2021 00:45
+Medical Support Device,cmdb_ci_med_support,Medical Device,cmdb_ci_med,06/03/2021 00:14
+Medical Therapeutic Device,cmdb_ci_med_theraputic,Medical Device,cmdb_ci_med,06/03/2021 00:27
+Memory Module,cmdb_ci_memory_module,Configuration Item,cmdb_ci_memory,06/03/2015 17:57
+Microsoft iis Web Server,cmdb_ci_microsoft_iis_web_server,Web Server,cmdb_ci_microsoft,11/08/2016 19:23
+Mirror Template,cmdb_ci_mirror_template,Virtual Machine Object,cmdb_ci_mirror,22/02/2018 19:23
+Model Entry,cmdb_ci_model_entry,,cmdb_ci_model,06/03/2015 17:57
+Modem Hardware,cmdb_ci_modem_network,Network Gear,cmdb_ci_modem,11/08/2016 19:23
+Modjk Load Balancer,cmdb_ci_lb_modjk,Load Balancer Application,cmdb_ci_lb,11/08/2016 19:24
+ModProxy Load Balancer,cmdb_ci_lb_modproxy,Load Balancer Application,cmdb_ci_lb,11/08/2016 19:22
+Mongo Config Server,cmdb_ci_appl_mongo_config_serv,Application,cmdb_ci_appl,11/08/2016 19:23
+MongoDB Instance,cmdb_ci_db_mongodb_instance,Database Instance,cmdb_ci_db,06/03/2015 17:58
+Mongos Server,cmdb_ci_appl_mongos,Application,cmdb_ci_appl,11/08/2016 19:23
+Monitoring Equipment,cmdb_ci_monitoring_hardware,Configuration Item,cmdb_ci_monitoring,11/08/2016 19:23
+MQ Cross-memory Endpoint,cmdb_ci_endpoint_mq_mem,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+MQ Endpoint,cmdb_ci_endpoint_mq,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+MQ Flow Endpoint,cmdb_ci_endpoint_mq_flow,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+MQ Queue,cmdb_ci_endpoint_mq_queue,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+MS SQL DataBase,cmdb_ci_db_mssql_database,Database Instance,cmdb_ci_db,11/08/2016 19:24
+MS SQL db inclusion,cmdb_ci_endpoint_ms_sql,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+MS SQL Server,cmdb_ci_db_mssql_server,Database Instance,cmdb_ci_db,11/08/2016 19:23
+MS SQL Server Endpoint,cmdb_ci_endpoint_ms_sql_server,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+MSFT SQL Catalog,cmdb_ci_db_mssql_catalog,Database Catalog,cmdb_ci_db,06/03/2015 17:57
+MSFT SQL Instance,cmdb_ci_db_mssql_instance,Database Instance,cmdb_ci_db,06/03/2015 17:57
+MSMQ,cmdb_ci_appl_msmq,Application,cmdb_ci_appl,11/08/2016 19:24
+MSMQ Flow Endpoint,cmdb_ci_endpoint_msmq,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Multi-function Printer,cmdb_ci_mfp_printer,Printer,cmdb_ci_mfp,11/08/2016 19:25
+Multimedia Device,cmdb_ci_multimedia,IoT Device,cmdb_ci_multimedia,06/03/2021 00:24
+Multipath IO Pool,cmdb_ci_mpio_pool,Storage Pool,cmdb_ci_mpio,06/03/2015 17:57
+Multipath IO Pool Group,cmdb_ci_mpio_pool_group,Storage Pool,cmdb_ci_mpio,06/03/2015 17:57
+Multipath IO Pool Path,cmdb_ci_mpio_pool_path,Storage Pool Member,cmdb_ci_mpio,06/03/2015 17:57
+MySQL Catalog,cmdb_ci_db_mysql_catalog,Database Catalog,cmdb_ci_db,06/03/2015 17:57
+MySQL Cluster Data Node Endpoint,cmdb_ci_endpoint_mysql_cl_dn,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+MySQL Cluster MGM Endpoint,cmdb_ci_endpoint_mysql_cl_mg,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+MySQL Instance,cmdb_ci_db_mysql_instance,Database Instance,cmdb_ci_db,06/03/2015 17:57
+MySQL Secondary Server Endpoint,cmdb_ci_endpoint_mysql_slave,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+MySQL Server Endpoint,cmdb_ci_endpoint_mysql_server,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+MySQLClusterDataNode,cmdb_ci_db_mysql_clusternode,Application,cmdb_ci_db,11/08/2016 19:24
+MySQLClusterMGMNode,cmdb_ci_db_mysql_clustermgnode,Application,cmdb_ci_db,11/08/2016 19:23
+NAS File System,cmdb_ci_nas_file_system,File System,cmdb_ci_nas,06/03/2015 17:57
+NAS Storage,cmdb_ci_nas_storage,Virtual Machine Object,cmdb_ci_nas,22/02/2018 19:22
+NAT,cmdb_ci_translation_rule,Configuration Item,cmdb_ci_translation,11/08/2016 19:22
+NAT Endpoint,cmdb_ci_endpoint_nat,Endpoint,cmdb_ci_endpoint,22/02/2018 19:24
+NAT Gateway,cmdb_ci_nat_gateway,Virtual Machine Object,cmdb_ci_nat,22/02/2018 19:23
+Netapp CDOT,cmdb_ci_netapp_cdot,Virtual Machine Object,cmdb_ci_netapp,22/02/2018 19:24
+Netapp Datacenter,cmdb_ci_netapp_datacenter,Logical Datacenter,cmdb_ci_netapp,22/02/2018 19:23
+Netapp SVM,cmdb_ci_netapp_svm,Virtual Machine Object,cmdb_ci_netapp,22/02/2018 19:23
+Netapp Volume,cmdb_ci_netapp_volume,Storage Volume,cmdb_ci_netapp,22/02/2018 19:23
+Netware Server,cmdb_ci_netware_server,Server,cmdb_ci_netware,06/03/2015 17:57
+Network,cmdb_ci_kvm_network,KVM Object,cmdb_ci_kvm,06/03/2015 17:57
+Network ACL,cmdb_ci_network_acl,Virtual Machine Object,cmdb_ci_network,22/02/2018 19:23
+Network ACL Rule,cmdb_ci_network_acl_rule,Virtual Machine Object,cmdb_ci_network,22/02/2018 19:23
+Network Adapter,cmdb_ci_network_adapter,Configuration Item,cmdb_ci_network,06/03/2015 17:57
+Network Appliance,cmdb_ci_net_app_server,Server Hardware,cmdb_ci_net,11/08/2016 19:23
+Network Appliance Hostname,cmdb_ci_net_app_host,Configuration Item,cmdb_ci_net,11/08/2016 19:22
+Network Circuit,cmdb_ci_network_circuit,Configuration Item,cmdb_ci_network,06/03/2021 00:47
+Network Endpoint,cmdb_ci_endpoint_network,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Network Gear,cmdb_ci_netgear,Hardware,cmdb_ci_netgear,06/03/2015 17:57
+Network Hostname,cmdb_ci_network_host,Configuration Item,cmdb_ci_network,11/08/2016 19:23
+Network Load Balancer,cmdb_ci_lb_network,Load Balancer,cmdb_ci_lb,11/08/2016 19:23
+Network Policy Group,cmdb_ci_network_policy_group,Virtual Machine Object,cmdb_ci_network,22/02/2018 19:23
+Network Template,cmdb_ci_network_template,Virtual Machine Object,cmdb_ci_network,22/02/2018 19:23
+Network Traffic,cmdb_ci_net_traffic,Configuration Item,cmdb_ci_net,06/03/2015 17:57
+NFS Endpoint,cmdb_ci_endpoint_nfs,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+NFS File system,cmdb_ci_file_system_nfs,File System,cmdb_ci_file,06/03/2015 17:57
+Nginx Load Balancer,cmdb_ci_lb_nginx,Load Balancer Application,cmdb_ci_lb,11/08/2016 19:23
+Nginx Web Server,cmdb_ci_nginx_web_server,Web Server,cmdb_ci_nginx,11/08/2016 19:23
+NNTP Endpoint,cmdb_ci_endpoint_nntp,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+NSX Load Balancer,cmdb_ci_nsx_lb,Load Balancer,cmdb_ci_nsx,06/03/2021 00:23
+Nutanix Cluster,cmdb_ci_nutanix_cluster,Virtual Machine Object,cmdb_ci_nutanix,06/03/2021 00:44
+Nutanix Controller VM,cmdb_ci_nutanix_controller_vm,Application,cmdb_ci_nutanix,06/03/2021 01:11
+Nutanix Host,cmdb_ci_nutanix_host,Virtualization Server,cmdb_ci_nutanix,06/03/2021 01:10
+Nutanix Prism Central,cmdb_ci_nutanix_prism_central,Virtual Machine Object,cmdb_ci_nutanix,06/03/2021 00:54
+Nutanix Storage Container,cmdb_ci_nutanix_storage_container,Storage Volume,cmdb_ci_nutanix,06/03/2021 00:43
+Nutanix Storage Pool,cmdb_ci_nutanix_storage_pool,Storage Pool,cmdb_ci_nutanix,06/03/2021 00:45
+Nutanix Virtual Machine Instance,cmdb_ci_nutanix_vm_instance,Virtual Machine Instance,cmdb_ci_nutanix,06/03/2021 00:49
+OpenShift Build Config,cmdb_ci_openshift_build_conf,Kubernetes Component,cmdb_ci_openshift,05/03/2021 23:39
+OpenShift Deployed Config,cmdb_ci_openshift_dep_conf,Kubernetes Component,cmdb_ci_openshift,06/03/2021 00:10
+OpenShift Docker Image Repository,cmdb_ci_openshift_docker_images_repository,Kubernetes Component,cmdb_ci_openshift,05/03/2021 23:38
+OpenShift Group,cmdb_ci_openshift_group,Kubernetes Component,cmdb_ci_openshift,05/03/2021 23:47
+OpenShift Image,cmdb_ci_openshift_images,Kubernetes Component,cmdb_ci_openshift,05/03/2021 23:38
+OpenShift Image Stream,cmdb_ci_openshift_images_stream,Kubernetes Component,cmdb_ci_openshift,05/03/2021 23:57
+OpenShift Project,cmdb_ci_openshift_project,Kubernetes Component,cmdb_ci_openshift,05/03/2021 23:42
+OpenShift Route,cmdb_ci_openshift_route,Kubernetes Component,cmdb_ci_openshift,06/03/2021 00:06
+OpenShift Source2Image,cmdb_ci_openshift_source_2_image,Kubernetes Component,cmdb_ci_openshift,06/03/2021 00:11
+OpenShift User,cmdb_ci_openshift_user,Kubernetes Component,cmdb_ci_openshift,05/03/2021 23:43
+Openstack Datacenter,cmdb_ci_openstack_datacenter,Logical Datacenter,cmdb_ci_openstack,22/02/2018 19:23
+OpenStack Domain,cmdb_ci_cloud_openstack_domain,Virtual Machine Object,cmdb_ci_cloud,06/03/2021 00:16
+OpenStack Endpoint,cmdb_ci_cloud_openstack_endpoint,Virtual Machine Object,cmdb_ci_cloud,06/03/2021 00:41
+OpenStack Service,cmdb_ci_cloud_openstack_service,Virtual Machine Object,cmdb_ci_cloud,06/03/2021 00:46
+Operating-system-level Virtualization Container,cmdb_ci_oslv_container,Configuration Item,cmdb_ci_oslv,22/02/2018 19:23
+Operating-system-level Virtualization Engine,cmdb_ci_oslv_engine,Application,cmdb_ci_oslv,22/02/2018 19:23
+Operating-system-level Virtualization Image,cmdb_ci_oslv_image,Configuration Item,cmdb_ci_oslv,22/02/2018 19:23
+Operating-system-level Virtualization Image Tag,cmdb_ci_oslv_image_tag,Configuration Item,cmdb_ci_oslv,22/02/2018 19:23
+Operating-system-level Virtualization Local Image,cmdb_ci_oslv_local_image,Configuration Item,cmdb_ci_oslv,22/02/2018 19:23
+Oracle App TNS Service,cmdb_ci_appl_ora_tns,Application,cmdb_ci_appl,11/08/2016 19:24
+Oracle App TNS Service EP,cmdb_ci_endpoint_oracle_tns,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Oracle Catalog,cmdb_ci_db_ora_catalog,Database Catalog,cmdb_ci_db,06/03/2015 17:57
+Oracle Concurrent Server,cmdb_ci_appl_ora_conc,Application,cmdb_ci_appl,11/08/2016 19:24
+Oracle Database Listener,cmdb_ci_db_ora_listener,Application,cmdb_ci_db,06/03/2015 17:57
+Oracle DB Endpoint,cmdb_ci_endpoint_oracle_db,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Oracle DB schema inclusion,cmdb_ci_endpoint_oracle_db_schema,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Oracle Discoverer Engine,cmdb_ci_appl_ora_disc,Application,cmdb_ci_appl,11/08/2016 19:24
+Oracle Discoverer UI,cmdb_ci_appl_ora_disc_ui,Application,cmdb_ci_appl,11/08/2016 19:24
+Oracle ESB,cmdb_ci_appl_ora_ebs,Application,cmdb_ci_appl,11/08/2016 19:24
+Oracle ESB Connection Endpoint,cmdb_ci_endpoint_oracle_esb,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Oracle Essbase Server,cmdb_ci_app_server_ora_ess,Application Server,cmdb_ci_app,11/08/2016 19:22
+Oracle Forms Engine,cmdb_ci_appl_ora_forms,Application,cmdb_ci_appl,11/08/2016 19:24
+Oracle Forms UI,cmdb_ci_appl_ora_forms_ui,Application,cmdb_ci_appl,11/08/2016 19:23
+Oracle Fulfillment Server,cmdb_ci_appl_ora_fs,Application,cmdb_ci_appl,11/08/2016 19:24
+Oracle Golden Gate,cmdb_ci_appl_oracle_golden_gate,Application,cmdb_ci_appl,05/03/2021 23:34
+Oracle Golden Gate Extract Process,cmdb_ci_appl_ora_gg_extract,Application,cmdb_ci_appl,06/03/2021 00:06
+Oracle Golden Gate Replicat Process,cmdb_ci_appl_ora_gg_replicat,Application,cmdb_ci_appl,05/03/2021 23:56
+Oracle HTTP Server,cmdb_ci_appl_ora_http,Application,cmdb_ci_appl,11/08/2016 19:23
+Oracle iAS,cmdb_ci_app_server_ora_ias,Application Server,cmdb_ci_app,11/08/2016 19:25
+Oracle iAS Module INC,cmdb_ci_endpoint_oracle_ias,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Oracle iAS Web module,cmdb_ci_app_server_ora_ias_m,Application Server,cmdb_ci_app,11/08/2016 19:24
+Oracle Instance,cmdb_ci_db_ora_instance,Database Instance,cmdb_ci_db,06/03/2015 17:57
+Oracle Metric Client,cmdb_ci_appl_ora_metric_client,Application,cmdb_ci_appl,11/08/2016 19:24
+Oracle Metric Server,cmdb_ci_appl_ora_metric_svr,Application,cmdb_ci_appl,11/08/2016 19:24
+Oracle Notification Server,cmdb_ci_appl_ora_notif_svr,Application,cmdb_ci_appl,11/08/2016 19:24
+Oracle OACORE Server,cmdb_ci_appl_ora_oacore,Application,cmdb_ci_appl,11/08/2016 19:24
+Oracle OAFM Server,cmdb_ci_appl_ora_oafm,Application,cmdb_ci_appl,11/08/2016 19:23
+Oracle PDB Instance,cmdb_ci_db_ora_pdb_instance,Database Instance,cmdb_ci_db,05/03/2021 23:56
+Oracle Process Manager,cmdb_ci_appl_ora_pm,Application,cmdb_ci_appl,11/08/2016 19:22
+Oracle RAC DB Endpoint,cmdb_ci_endpoint_oracle_rac,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Oracle Report Server,cmdb_ci_appl_ora_report,Application,cmdb_ci_appl,11/08/2016 19:23
+Oracle TNS Listener Engine,cmdb_ci_appl_ora_tnslsnr,Application,cmdb_ci_appl,11/08/2016 19:24
+OS/X Server,cmdb_ci_osx_server,Server,cmdb_ci_osx,06/03/2015 17:57
+Outage,cmdb_ci_outage,,cmdb_ci_outage,06/03/2015 17:57
+Outbound Cluster Endpoint,cmdb_ci_endpoint_ob_cluster,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Outlet,cmdb_ci_pdu_outlet,Configuration Item,cmdb_ci_pdu,06/03/2015 17:57
+Out-of-Band Device,cmdb_ci_outofband_device,Hardware,cmdb_ci_outofband,06/03/2015 17:58
+Package,cmdb_ci_os_packages,Configuration Item,cmdb_ci_os,16/05/2019 18:12
+Palto Alto Firewall Device,cmdb_ci_firewall_device_palo_alto,Firewall Device,cmdb_ci_firewall,06/03/2021 00:48
+Panorama Firewall Device Group,cmdb_ci_firewall_device_group_panorama,Firewall Device Group,cmdb_ci_firewall,06/03/2021 01:05
+Panorama Firewall Manager,cmdb_ci_firewall_manager_panorama,Firewall Manager,cmdb_ci_firewall,06/03/2021 00:18
+Panorama Firewall Security Policy,cmdb_ci_firewall_sec_policy_panorama,Firewall Security Policy,cmdb_ci_firewall,06/03/2021 00:36
+Parallels,cmdb_ci_vm_parallels,Virtual Machine HyperVisor,cmdb_ci_vm,06/03/2015 17:57
+Patch,cmdb_ci_patches,Configuration Item,cmdb_ci_patches,06/03/2015 17:57
+Payment Device,cmdb_ci_payment,IoT Device,cmdb_ci_payment,06/03/2021 00:35
+PDU,cmdb_ci_pdu,Hardware,cmdb_ci_pdu,06/03/2015 17:57
+Pending Application,cmdb_ci_appl_pending,Application,cmdb_ci_appl,29/08/2019 17:01
+Peoplesoft Application Server,cmdb_ci_appl_peoplesoft,Application,cmdb_ci_appl,11/08/2016 19:24
+Peoplesoft Application Server Endpoint,cmdb_ci_endpoint_peoplesoft,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Performance Template,cmdb_ci_perf_template,Virtual Machine Object,cmdb_ci_perf,22/02/2018 19:23
+Personal Printer,cmdb_ci_personal_printer,Printer,cmdb_ci_personal,11/08/2016 19:23
+Plotter,cmdb_ci_plotter,Printing Hardware,cmdb_ci_plotter,11/08/2016 19:23
+Point of Sale Device,cmdb_ci_pos,Payment Device,cmdb_ci_pos,06/03/2021 00:43
+Policy Server,cmdb_ci_dir_policy_server,Infrastructure Service,cmdb_ci_dir,11/08/2016 19:23
+POP3 Endpoint,cmdb_ci_endpoint_pop3,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Port,cmdb_ci_port,Configuration Item,cmdb_ci_port,11/08/2016 19:23
+Port Group,cmdb_ci_port_group,Virtual Machine Object,cmdb_ci_port,22/02/2018 19:23
+PostgreSQL DB Endpoint,cmdb_ci_endpoint_postgresql,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+PostgreSQL Instance,cmdb_ci_db_postgresql_instance,Database Instance,cmdb_ci_db,06/03/2015 17:58
+PostgreSQL Schema,cmdb_ci_postgresql_schema,Database Catalog,cmdb_ci_postgresql,06/03/2021 00:39
+Power Equipment,cmdb_ci_power_eq,Facility Hardware,cmdb_ci_power,06/03/2015 17:57
+Power Generator,cmdb_ci_generator_power_eq,Power Equipment,cmdb_ci_generator,06/03/2015 17:57
+Print Queue,cmdb_ci_print_queue,Configuration Item,cmdb_ci_print,06/03/2015 17:57
+Printer,cmdb_ci_printer,Hardware,cmdb_ci_printer,06/03/2015 17:57
+Printing Hardware,cmdb_ci_printing_hardware,Configuration Item,cmdb_ci_printing,11/08/2016 19:23
+Process Logic Controller,cmdb_ci_plc,Manufacturing Device,cmdb_ci_plc,06/03/2021 00:15
+Protection Template,cmdb_ci_protection_template,Virtual Machine Object,cmdb_ci_protection,22/02/2018 19:23
+Provider Device,cmdb_ci_provider_device,Network Gear,cmdb_ci_provider,06/03/2021 00:29
+Puppet Master,cmdb_ci_puppet_master,Management Server,cmdb_ci_puppet,06/03/2015 17:58
+Pure Storage File Share,cmdb_ci_storage_fileshare_pure,Storage File Share,cmdb_ci_storage,05/03/2021 23:29
+Pure Storage Processor,cmdb_ci_storage_processor_pure,Configuration Item,cmdb_ci_storage,05/03/2021 23:28
+Qtree,cmdb_ci_qtree,Virtual Machine Object,cmdb_ci_qtree,22/02/2018 19:23
+Qualifier,cmdb_ci_qualifier,Configuration Item,cmdb_ci_qualifier,11/08/2016 19:22
+RabbitMQ,cmdb_ci_appl_rabbitmq,Application,cmdb_ci_appl,22/02/2018 19:23
+RabbitMQ Cluster,cmdb_ci_appl_rabbitmq_cluster,Application,cmdb_ci_appl,22/02/2018 19:24
+RabbitMQ Endpoint,cmdb_ci_endpoint_rabbitmq,Endpoint,cmdb_ci_endpoint,22/02/2018 19:22
+RabbitMQ Queue,cmdb_ci_appl_rabbitmq_queue,Application,cmdb_ci_appl,22/02/2018 19:23
+RabbitMQ Queue Endpoint,cmdb_ci_endpoint_inclusion_rabbitmq_queue,Inclusion Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Rack,cmdb_ci_rack,Configuration Item,cmdb_ci_rack,06/03/2015 17:57
+Radware Load Balancer,cmdb_ci_lb_radware,Load Balancer,cmdb_ci_lb,11/08/2016 19:24
+RAID,cmdb_ci_raid,Storage Pool,cmdb_ci_raid,06/03/2015 17:57
+RAID Member,cmdb_ci_raid_member,Storage Pool Member,cmdb_ci_raid,06/03/2015 17:57
+Remedy HSServer,cmdb_ci_app_server_remedy,Application Server,cmdb_ci_app,11/08/2016 19:24
+Remote Backup Template,cmdb_ci_remote_backup_template,Virtual Machine Object,cmdb_ci_remote,22/02/2018 19:23
+Remote TCP Cross-memory Endpoint,cmdb_ci_endpoint_remote_tcp,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Resource Group,cmdb_ci_resource_group,Virtual Machine Object,cmdb_ci_resource,22/02/2018 19:22
+RFC Endpoint,cmdb_ci_endpoint_rfc,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+RHV Cluster,cmdb_ci_rhv_cluster,RHV Object,cmdb_ci_rhv,06/03/2021 00:21
+RHV LDC,cmdb_ci_rhv_ldc,Logical Datacenter,cmdb_ci_rhv,06/03/2021 00:26
+RHV Manager,cmdb_ci_rhv_manager,Application,cmdb_ci_rhv,06/03/2021 01:02
+RHV Object,cmdb_ci_rhv_object,Virtual Machine Object,cmdb_ci_rhv,06/03/2021 00:21
+RHV Server,cmdb_ci_rhv_server,Virtualization Server,cmdb_ci_rhv,06/03/2021 00:59
+RHV Virtual Machine Instance,cmdb_ci_rhv_vm_instance,Virtual Machine Instance,cmdb_ci_rhv,06/03/2021 00:30
+Route,cmdb_ci_route,Virtual Machine Object,cmdb_ci_route,22/02/2018 19:23
+Route Table,cmdb_ci_route_table,Virtual Machine Object,cmdb_ci_route,22/02/2018 19:23
+Route Table Endpoint,cmdb_ci_endpoint_route_table,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Router,cmdb_ci_ip_router,Network Gear,cmdb_ci_ip,06/03/2015 17:57
+Router Endpoint,cmdb_ci_endpoint_router,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Routing Policy,cmdb_ci_routing_policy,Virtual Machine Object,cmdb_ci_routing,22/02/2018 19:24
+SAN Connection,cmdb_ci_san_connection,Configuration Item,cmdb_ci_san,06/03/2015 17:57
+SAN Disk,cmdb_ci_san_disk,Storage,cmdb_ci_san,06/03/2015 17:57
+SAN Endpoint,cmdb_ci_san_endpoint,Configuration Item,cmdb_ci_san,06/03/2015 17:57
+SAN Export,cmdb_ci_san_export,Storage Export,cmdb_ci_san,06/03/2015 17:57
+SAN Fabric,cmdb_ci_san_fabric,Configuration Item,cmdb_ci_san,06/03/2015 17:57
+SAN Zone,cmdb_ci_san_zone,Configuration Item,cmdb_ci_san,06/03/2015 17:57
+SAN Zone Alias,cmdb_ci_san_zone_alias,Configuration Item,cmdb_ci_san,06/03/2015 17:57
+SAN Zone Alias Member,cmdb_ci_san_zone_alias_member,Configuration Item,cmdb_ci_san,06/03/2015 17:57
+SAN Zone Member,cmdb_ci_san_zone_member,Configuration Item,cmdb_ci_san,06/03/2015 17:57
+SAN Zone Set,cmdb_ci_san_zone_set,Configuration Item,cmdb_ci_san,06/03/2015 17:57
+SAP APP Endpoint,cmdb_ci_endpoint_sap_app,Endpoint,cmdb_ci_endpoint,11/08/2016 19:25
+SAP Application,cmdb_ci_appl_sap,Application,cmdb_ci_appl,11/08/2016 19:22
+SAP Application Server,cmdb_ci_appl_sap_server,Application,cmdb_ci_appl,11/08/2016 19:23
+SAP Application Server Endpoint,cmdb_ci_endpoint_sap,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+SAP ASCS Application,cmdb_ci_appl_sap_ascs,SAP Application,cmdb_ci_appl,11/08/2016 19:23
+SAP BO BOXIScheduleRouter,cmdb_ci_appl_sap_bo_scheduler,Application,cmdb_ci_appl,11/08/2016 19:24
+SAP BO Servers,cmdb_ci_endpoint_sap_bo_servers,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+SAP BO Servers Endpoint,cmdb_ci_endpoint_sap_bo_srv,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+SAP Business Objects,cmdb_ci_appl_sap_bus_obj,Application,cmdb_ci_appl,11/08/2016 19:22
+SAP Business Objects CMS server,cmdb_ci_appl_sap_bo,Application,cmdb_ci_appl,11/08/2016 19:23
+SAP CI Application,cmdb_ci_appl_sap_ci,SAP Application,cmdb_ci_appl,11/08/2016 19:23
+SAP DI Application,cmdb_ci_appl_sap_di,SAP Application,cmdb_ci_appl,11/08/2016 19:24
+SAP ERS Application,cmdb_ci_appl_sap_ers,SAP Application,cmdb_ci_appl,11/08/2016 19:23
+SAP Hana Db,cmdb_ci_appl_sap_hana_db,Application,cmdb_ci_appl,11/08/2016 19:23
+SAP HANA DB Endpoint,cmdb_ci_endpoint_sap_db,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+SAP JC Application,cmdb_ci_appl_sap_jc,SAP Application,cmdb_ci_appl,11/08/2016 19:22
+SAP SCS Application,cmdb_ci_appl_sap_scs,SAP Application,cmdb_ci_appl,11/08/2016 19:22
+SAP System,cmdb_ci_appl_sap_system,Application,cmdb_ci_appl,11/08/2016 19:23
+SAP System,cmdb_ci_sap_sid,Application,cmdb_ci_sap,05/03/2021 23:45
+Scaling Policy,cmdb_ci_sa_scaling_pol_base,Virtual Machine Object,cmdb_ci_sa,16/05/2019 18:12
+Scanner,cmdb_ci_scanner,Imaging Hardware,cmdb_ci_scanner,11/08/2016 19:22
+Schedule Policy Template,cmdb_ci_schedule_policy_template,Virtual Machine Object,cmdb_ci_schedule,22/02/2018 19:23
+SDWAN Controller,cmdb_ci_sdwan_controller,Server Hardware,cmdb_ci_sdwan,06/03/2021 00:27
+SDWAN Edge,cmdb_ci_sdwan_edge,Network Gear,cmdb_ci_sdwan,06/03/2021 00:33
+SDWAN Port,cmdb_ci_sdwan_port,Network Gear,cmdb_ci_sdwan,06/03/2021 01:09
+Security Device,cmdb_ci_security,IoT Device,cmdb_ci_security,06/03/2021 00:29
+Security Group Rule,cmdb_ci_compute_security_group_rule,Virtual Machine Object,cmdb_ci_compute,05/03/2021 23:37
+Sendmail,cmdb_ci_appl_sendmail,Application,cmdb_ci_appl,11/08/2016 19:24
+Server,cmdb_ci_server,Computer,cmdb_ci_server,06/03/2015 17:57
+Server Array Launch Configuration,cmdb_ci_sa_launch_config,Virtual Machine Object,cmdb_ci_sa,16/05/2019 18:12
+Server Chassis,cmdb_ci_chassis_server,Server Hardware,cmdb_ci_chassis,22/06/2016 13:52
+Server Hardware,cmdb_ci_server_hardware,Server,cmdb_ci_server,11/08/2016 19:23
+Server Snapshot,cmdb_ci_server_snapshot,Virtual Machine Object,cmdb_ci_server,22/02/2018 19:23
+Server Tape Unit,cmdb_ci_tape_server,Server Hardware,cmdb_ci_tape,11/08/2016 19:24
+Service Group,cmdb_ci_service_group,Business Service,cmdb_ci_service,16/05/2019 18:15
+ServiceNow Application,cmdb_ci_appl_now_app,Application,cmdb_ci_appl,16/05/2019 18:12
+ServiceNow Application Component,cmdb_ci_appl_now_app_comp,ServiceNow Application,cmdb_ci_appl,16/05/2019 18:13
+ServiceNow Connector,cmdb_ci_appl_now_connector,ServiceNow Application Component,cmdb_ci_appl,29/08/2019 17:02
+ServiceNow MID Server,cmdb_ci_appl_now_mid,ServiceNow Application,cmdb_ci_appl,29/08/2019 17:02
+SharePoint,cmdb_ci_appl_sharepoint,Application,cmdb_ci_appl,11/08/2016 19:23
+Sharepoint connection Endpoint,cmdb_ci_endpoint_sp_connection,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+SharePoint Service,cmdb_ci_appl_sp_service,Application,cmdb_ci_appl,11/08/2016 19:25
+SharePoint Service EP,cmdb_ci_endpoint_sharepoint_service,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Ship,cmdb_ci_ship,Transport Type,cmdb_ci_ship,06/03/2021 00:59
+Simple Scaling Policy,cmdb_ci_sa_simple_policy,Scaling Policy,cmdb_ci_sa,16/05/2019 18:13
+Simulation,cmdb_ci_app_simulation,Application,cmdb_ci_app,11/08/2016 19:24
+Simulation Endpoint,cmdb_ci_endpoint_sim_flow,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Simulation Inclusion,cmdb_ci_app_simulation_inc,Application,cmdb_ci_app,11/08/2016 19:24
+Simulation Inclusion Endpoint,cmdb_ci_endpoint_sim_inc,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:25
+Single Board Computing,cmdb_ci_sbc,IoT Device,cmdb_ci_sbc,06/03/2021 01:08
+Site Minder,cmdb_ci_dir_site_minder_server,Infrastructure Service,cmdb_ci_dir,11/08/2016 19:23
+Smart Television,cmdb_ci_stv,Display Device,cmdb_ci_stv,06/03/2021 01:11
+SMB File system,cmdb_ci_file_system_smb,File System,cmdb_ci_file,06/03/2015 17:57
+SMTP Endpoint,cmdb_ci_endpoint_smtp,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+Snapshot Template,cmdb_ci_snapshot_template,Virtual Machine Object,cmdb_ci_snapshot,22/02/2018 19:23
+SNAT IP Pool,cmdb_ci_snat_ip_pool,Virtual Machine Object,cmdb_ci_snat,22/02/2018 19:23
+SNC Component,cmdb_ci_snc_component,Configuration Item,cmdb_ci_snc,06/03/2015 18:07
+Software,cmdb_ci_spkg,Configuration Item,cmdb_ci_spkg,06/03/2015 17:57
+Solaris Server,cmdb_ci_solaris_server,UNIX Server,cmdb_ci_solaris,06/03/2015 17:57
+Solaris Virtual Machine Instance,cmdb_ci_solaris_instance,Virtual Machine Instance,cmdb_ci_solaris,06/03/2015 17:57
+SQL Server Analysis Services,cmdb_ci_db_mssql_analysis,Database Instance,cmdb_ci_db,11/08/2016 19:22
+SQL Server Integration Services,cmdb_ci_db_mssql_integration,Database Instance,cmdb_ci_db,11/08/2016 19:24
+SQL Server Integration Services Job,cmdb_ci_db_mssql_int_job,Application,cmdb_ci_db,11/08/2016 19:23
+SQL Server Reporting Services,cmdb_ci_db_mssql_reporting,Database Instance,cmdb_ci_db,11/08/2016 19:22
+SSAS Endpoint,cmdb_ci_endpoint_ssas,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+SSAS for MSSQL Endpoint,cmdb_ci_endpoint_ssas_mssql,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+SSIS Endpoint,cmdb_ci_endpoint_ssis,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+SSIS file Endpoint,cmdb_ci_endpoint_ssis_file,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+SSIS for MSSQL Endpoint,cmdb_ci_endpoint_ssis_mssql,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+SSIS job,cmdb_ci_endpoint_ssis_job,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+Storage,cmdb_ci_storage_device,Configuration Item,cmdb_ci_storage,06/03/2015 17:57
+Storage Access Policy,cmdb_ci_storage_access_policy,Virtual Machine Object,cmdb_ci_storage,22/02/2018 19:23
+Storage Area Network,cmdb_ci_san,Configuration Item,cmdb_ci_san,06/03/2015 17:57
+Storage Cluster,cmdb_ci_storage_cluster,Cluster,cmdb_ci_storage,16/05/2019 18:12
+Storage Cluster Node,cmdb_ci_storage_cluster_node,Cluster Node,cmdb_ci_storage,16/05/2019 18:11
+Storage Container,cmdb_ci_storage_container,Virtual Machine Object,cmdb_ci_storage,22/02/2018 19:23
+Storage Controller,cmdb_ci_storage_controller,Configuration Item,cmdb_ci_storage,06/03/2015 17:57
+Storage Default Template,cmdb_ci_storage_def_template,Virtual Machine Object,cmdb_ci_storage,22/02/2018 19:22
+Storage Disk,cmdb_ci_storage_disk,Disk,cmdb_ci_storage,06/03/2015 17:57
+Storage Efficiency Template,cmdb_ci_storage_eff_template,Virtual Machine Object,cmdb_ci_storage,22/02/2018 19:23
+Storage Export,cmdb_ci_storage_export,Configuration Item,cmdb_ci_storage,06/03/2015 17:57
+Storage FC Connectivity Endpoint,cmdb_ci_endpoint_storage_fc,Endpoint,cmdb_ci_endpoint,11/08/2016 19:25
+Storage File Share,cmdb_ci_storage_fileshare,Configuration Item,cmdb_ci_storage,06/03/2015 17:57
+Storage HBA,cmdb_ci_storage_hba,Configuration Item,cmdb_ci_storage,06/03/2015 17:57
+Storage Mapping,cmdb_ci_storage_mapping,Virtual Machine Object,cmdb_ci_storage,22/02/2018 19:23
+Storage Node,cmdb_ci_storage_node,Virtual Machine Object,cmdb_ci_storage,22/02/2018 19:23
+Storage Node Element,cmdb_ci_storage_node_element,Server,cmdb_ci_storage,16/05/2019 18:13
+Storage Pool,cmdb_ci_storage_pool,Configuration Item,cmdb_ci_storage,06/03/2015 17:57
+Storage Pool Member,cmdb_ci_storage_pool_member,Configuration Item,cmdb_ci_storage,06/03/2015 17:57
+Storage Port,cmdb_ci_storage_port,Fibre Channel Port,cmdb_ci_storage,06/03/2015 17:57
+Storage Server,cmdb_ci_storage_server,Server,cmdb_ci_storage,06/03/2015 17:57
+Storage Switch,cmdb_ci_storage_switch,Computer,cmdb_ci_storage,06/03/2015 17:57
+Storage Volume,cmdb_ci_storage_volume,Configuration Item,cmdb_ci_storage,06/03/2015 17:57
+Storage Volume Snapshot,cmdb_ci_storage_vol_snapshot,Virtual Machine Object,cmdb_ci_storage,22/02/2018 19:23
+StoreFront Components,cmdb_ci_endpoint_storefront_comp,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+StoreFront Components Endpoint,cmdb_ci_endpoint_storefront_components,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Subnet Endpoint,cmdb_ci_endpoint_subnet,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Sun Directory Proxy Server,cmdb_ci_sun_dir_proxy_server,Infrastructure Service,cmdb_ci_sun,11/08/2016 19:23
+Sun LDAP Server,cmdb_ci_sun_ldap_dir_server,Infrastructure Service,cmdb_ci_sun,11/08/2016 19:22
+Surger Protection Equipment,cmdb_ci_surge_power_eq,Power Equipment,cmdb_ci_surge,06/03/2015 17:57
+Switch,cmdb_ci_ip_switch,Network Gear,cmdb_ci_ip,06/03/2015 17:57
+Switch Port,cmdb_ci_switch_port,Port,cmdb_ci_switch,25/08/2016 18:13
+Sybase Catalog,cmdb_ci_db_syb_catalog,Database Catalog,cmdb_ci_db,06/03/2015 17:57
+Sybase Endpoint,cmdb_ci_endpoint_sybase,Endpoint,cmdb_ci_endpoint,11/08/2016 19:25
+Sybase Instance,cmdb_ci_db_syb_instance,Database Instance,cmdb_ci_db,06/03/2015 17:57
+TCP Endpoint,cmdb_ci_endpoint_tcp,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Technical Service,cmdb_ci_service_technical,Business Service,cmdb_ci_service,05/03/2021 23:19
+Tibco Adapter,cmdb_ci_appl_tibco_adapter,Application,cmdb_ci_appl,16/05/2019 18:13
+Tibco BW Endpoint,cmdb_ci_endpoint_tibco_bw,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Tibco BW process,cmdb_ci_endpoint_tibco_bw_proc,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Tibco Conf File Endpoint,cmdb_ci_endpoint_tbco_confile,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Tibco Enterprise Message Service,cmdb_ci_appl_tibco_message,Application,cmdb_ci_appl,11/08/2016 19:24
+Tibco File Listener Endpoint,cmdb_ci_endpoint_tibco_file,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Tibco Hawk,cmdb_ci_appl_tibco_hawk,Application,cmdb_ci_appl,11/08/2016 19:22
+Tibco Hawk Endpoint,cmdb_ci_endpoint_tibco_hawk,Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Tomcat,cmdb_ci_app_server_tomcat,Application Server,cmdb_ci_app,06/03/2015 17:57
+Tomcat Connector,cmdb_ci_tomcat_connector,Configuration Item,cmdb_ci_tomcat,06/03/2015 17:57
+Tomcat WAR,cmdb_ci_app_server_tomcat_war,Application Server,cmdb_ci_app,11/08/2016 19:24
+Tomcat WAR Inclusion,cmdb_ci_endpoint_tomcat_war,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+Tower,cmdb_ci_tower_tower_eq,Tower Equipment,cmdb_ci_tower,06/03/2015 17:57
+Tower Beacon,cmdb_ci_beacon_tower_eq,Tower Equipment,cmdb_ci_beacon,06/03/2015 17:57
+Tower Equipment,cmdb_ci_tower_eq,Facility Hardware,cmdb_ci_tower,06/03/2015 17:57
+Tower Light Controller,cmdb_ci_twr_light_cnt_tower_eq,Tower Equipment,cmdb_ci_twr,06/03/2015 17:57
+Tower Lights,cmdb_ci_tower_light_tower_eq,Tower Equipment,cmdb_ci_tower,06/03/2015 17:57
+Tracked Configuration file,cmdb_ci_config_file_tracked,Configuration file,cmdb_ci_config,22/02/2018 19:22
+Traffic Based Connection Qualifier,cmdb_ci_qualifier_traffic_based_connection,Qualifier,cmdb_ci_qualifier,11/08/2016 19:23
+Train,cmdb_ci_train,Transport Type,cmdb_ci_train,06/03/2021 00:41
+Transport Type,cmdb_ci_transport,Configuration Item,cmdb_ci_transport,06/03/2021 00:38
+Tuxedo,cmdb_ci_appl_tuxedo,Application,cmdb_ci_appl,11/08/2016 19:25
+Tuxedo Portal,cmdb_ci_appl_tuxedo_portal,Application,cmdb_ci_appl,11/08/2016 19:24
+Unclassed Hardware,cmdb_ci_unclassed_hardware,Hardware,cmdb_ci_unclassed,06/03/2021 00:50
+Uninterruptible Power Supply,cmdb_ci_ups_power_eq,Power Equipment,cmdb_ci_ups,06/03/2015 17:57
+Unique Certificate,cmdb_ci_certificate,Configuration Item,cmdb_ci_certificate,06/03/2021 00:31
+UNIX Cluster,cmdb_ci_unix_cluster,Cluster,cmdb_ci_unix,11/08/2016 19:24
+UNIX Cluster Node,cmdb_ci_unix_cluster_node,Cluster Node,cmdb_ci_unix,29/11/2018 18:12
+UNIX Cluster Resource,cmdb_ci_unix_cluster_resource,Cluster Resource,cmdb_ci_unix,29/11/2018 18:12
+UNIX Daemon,cmdb_ci_unix_daemon,IP Service Instance,cmdb_ci_unix,06/03/2015 17:57
+UNIX Server,cmdb_ci_unix_server,Server,cmdb_ci_unix,06/03/2015 17:57
+UPS,cmdb_ci_ups,Hardware,cmdb_ci_ups,06/03/2015 17:57
+UPS Alarm,cmdb_ci_ups_alarm,Configuration Item,cmdb_ci_ups,06/03/2015 17:57
+UPS Bypass,cmdb_ci_ups_bypass,Configuration Item,cmdb_ci_ups,06/03/2015 17:57
+UPS Input,cmdb_ci_ups_input,Configuration Item,cmdb_ci_ups,06/03/2015 17:57
+UPS Output,cmdb_ci_ups_output,Configuration Item,cmdb_ci_ups,06/03/2015 17:57
+Vehicle,cmdb_ci_vehicle,Transport Type,cmdb_ci_vehicle,06/03/2021 00:38
+Vendavo Application Server,cmdb_ci_app_server_vendavo,Application Server,cmdb_ci_app,11/08/2016 19:23
+Veritas Disk,cmdb_ci_veritas_disk,Storage Pool,cmdb_ci_veritas,11/08/2016 19:23
+Veritas Disk Group,cmdb_ci_veritas_disk_group,Configuration Item,cmdb_ci_veritas,11/08/2016 19:23
+Veritas Plex,cmdb_ci_veritas_plex,Storage Pool,cmdb_ci_veritas,11/08/2016 19:23
+Veritas Subdisk,cmdb_ci_veritas_subdisk,Storage Pool Member,cmdb_ci_veritas,11/08/2016 19:23
+Veritas Volume,cmdb_ci_veritas_volume,Storage Pool,cmdb_ci_veritas,11/08/2016 19:23
+Vignette Content Management Server,cmdb_ci_appl_vign_content_svr,Application,cmdb_ci_appl,11/08/2016 19:23
+Vignette Search Starter,cmdb_ci_appl_vignette_search,Application,cmdb_ci_appl,11/08/2016 19:24
+Vignette Server,cmdb_ci_appl_vignette_server,Application,cmdb_ci_appl,11/08/2016 19:23
+Virtual Desktop,cmdb_ci_virtual_desktop,Virtual Machine Object,cmdb_ci_virtual,22/02/2018 19:23
+Virtual Machine HyperVisor,cmdb_ci_vm,Application,cmdb_ci_vm,06/03/2015 17:57
+Virtual Machine Instance,cmdb_ci_vm_instance,Virtual Machine Object,cmdb_ci_vm,06/03/2015 17:57
+Virtual Machine Object,cmdb_ci_vm_object,Configuration Item,cmdb_ci_vm,06/03/2015 17:57
+Virtual Machine Template,cmdb_ci_vm_template,Image,cmdb_ci_vm,06/03/2015 17:57
+Virtual Private Cloud,cmdb_ci_vpc,Configuration Item,cmdb_ci_vpc,11/08/2016 19:26
+Virtual Private Gateway,cmdb_ci_virtual_pvt_gateway,Virtual Machine Object,cmdb_ci_virtual,22/02/2018 19:23
+Virtual Private Gateway Endpoint,cmdb_ci_endpoint_vpg,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Virtual Private Network,cmdb_ci_vpn,Configuration Item,cmdb_ci_vpn,06/03/2015 17:57
+Virtual Router,cmdb_ci_router,Virtual Machine Object,cmdb_ci_router,22/02/2018 19:23
+Virtual Server Array,cmdb_ci_sa_server_array,Virtual Machine Object,cmdb_ci_sa,16/05/2019 18:12
+Virtual Switch,cmdb_ci_switch,Virtual Machine Object,cmdb_ci_switch,22/02/2018 19:24
+Virtualization Server,cmdb_ci_virtualization_server,Server,cmdb_ci_virtualization,06/03/2015 17:57
+VirtualMachine to ESX Storage Endpoint,cmdb_ci_endpoint_vm_esx,Endpoint,cmdb_ci_endpoint,11/08/2016 19:22
+VM instance price,cmdb_ci_cmp_vm_instance_price,Cloud Product Price Base,cmdb_ci_cmp,19/02/2021 10:26
+VM User Credentials,cmdb_ci_vm_user_credentials,Virtual Machine Object,cmdb_ci_vm,22/02/2018 19:24
+VMware,cmdb_ci_vm_vmware,Virtual Machine HyperVisor,cmdb_ci_vm,06/03/2015 17:57
+VMware Distributed Virtual Port Group,cmdb_ci_vcenter_dv_port_group,Port Group,cmdb_ci_vcenter,22/02/2018 19:24
+VMware Distributed Virtual Switch,cmdb_ci_vcenter_dvs,Cloud Network,cmdb_ci_vcenter,22/02/2018 19:23
+VMware Network Adapter,cmdb_ci_vmware_nic,Cloud Mgmt Network Interface,cmdb_ci_vmware,22/02/2018 19:23
+VMware vCenter Cluster,cmdb_ci_vcenter_cluster,Host Cluster,cmdb_ci_vcenter,06/03/2015 17:57
+VMWare vCenter Cluster DRS Rule,cmdb_ci_vcenter_cluster_drs_rule,Configuration Item,cmdb_ci_vcenter,26/11/2020 18:08
+VMware vCenter Datacenter,cmdb_ci_vcenter_datacenter,Logical Datacenter,cmdb_ci_vcenter,06/03/2015 17:57
+VMware vCenter Datastore,cmdb_ci_vcenter_datastore,Datastore,cmdb_ci_vcenter,06/03/2015 17:57
+VMware vCenter Folder,cmdb_ci_vcenter_folder,VMware vCenter Object,cmdb_ci_vcenter,06/03/2015 17:57
+VMware vCenter Host Group,cmdb_ci_vcenter_host_group,Configuration Item,cmdb_ci_vcenter,26/11/2020 18:08
+VMware vCenter Instance,cmdb_ci_vcenter,Application,cmdb_ci_vcenter,06/03/2015 17:57
+VMware vCenter Network,cmdb_ci_vcenter_network,Cloud Network,cmdb_ci_vcenter,06/03/2015 17:57
+VMware vCenter Object,cmdb_ci_vcenter_object,Virtual Machine Object,cmdb_ci_vcenter,06/03/2015 17:57
+VMware vCenter Server Object,cmdb_ci_vcenter_server_obj,Virtualization Server,cmdb_ci_vcenter,06/03/2015 17:57
+VMware vCenter VM Group,cmdb_ci_vcenter_vm_group,Configuration Item,cmdb_ci_vcenter,26/11/2020 18:08
+VMware Virtual Machine Instance,cmdb_ci_vmware_instance,Virtual Machine Instance,cmdb_ci_vmware,06/03/2015 17:57
+VMware Virtual Machine Template,cmdb_ci_vmware_template,Virtual Machine Template,cmdb_ci_vmware,06/03/2015 17:57
+VNIC Endpoint,cmdb_ci_endpoint_vnic,Endpoint,cmdb_ci_endpoint,22/02/2018 19:23
+Volume Template,cmdb_ci_volume_template,Virtual Machine Object,cmdb_ci_volume,22/02/2018 19:24
+VPN Connection,cmdb_ci_vpn_connection,Virtual Machine Object,cmdb_ci_vpn,22/02/2018 19:23
+VServer Peer,cmdb_ci_vserver_peer,Virtual Machine Object,cmdb_ci_vserver,22/02/2018 19:24
+WAN Accelerator,cmdb_ci_wan_accel_network,Network Gear,cmdb_ci_wan,11/08/2016 19:24
+WAN Circuit,cmdb_ci_circuit,Configuration Item,cmdb_ci_circuit,06/03/2015 17:57
+WBEM Service,cmdb_ci_wbem_service,Application,cmdb_ci_wbem,06/03/2015 17:57
+Wearable Technology,cmdb_ci_wearable,IoT Device,cmdb_ci_wearable,06/03/2021 01:02
+Web Application,cmdb_ci_web_application,Application,cmdb_ci_web,06/03/2015 17:57
+Web Server,cmdb_ci_web_server,Infrastructure Service,cmdb_ci_web,06/03/2015 17:57
+Web Service,cmdb_ci_web_service,Application,cmdb_ci_web,06/03/2015 17:57
+Web Site,cmdb_ci_web_site,Application,cmdb_ci_web,06/03/2015 17:57
+Weblogic,cmdb_ci_app_server_weblogic,Application Server,cmdb_ci_app,06/03/2015 17:57
+Weblogic JMS Queue,cmdb_ci_appl_ora_jms_queue,Application,cmdb_ci_appl,11/08/2016 19:23
+Weblogic JMS Server,cmdb_ci_appl_weblogic_jms,Application,cmdb_ci_appl,11/08/2016 19:24
+Weblogic LB,cmdb_ci_appl_weblogic_lb,Application Server,cmdb_ci_appl,11/08/2016 19:23
+Weblogic Module,cmdb_ci_endpoint_weblogic_module,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Weblogic Module Server,cmdb_ci_appl_weblogicmodule,Application,cmdb_ci_appl,11/08/2016 19:22
+WeblogicModule,cmdb_ci_app_server_wl_module,Application Server,cmdb_ci_app,11/08/2016 19:25
+Webseal,cmdb_ci_app_server_webseal,Application,cmdb_ci_app,11/08/2016 19:24
+Websphere Cell,cmdb_ci_websphere_cell,Configuration Item,cmdb_ci_websphere,06/03/2015 17:57
+Websphere EAR,cmdb_ci_app_server_ws_ear,Application Server,cmdb_ci_app,11/08/2016 19:23
+Websphere ODR LB,cmdb_ci_app_server_ws_odr,IBM Websphere,cmdb_ci_app,11/08/2016 19:24
+Websphere Portal,cmdb_ci_appl_websphere_portal,Application,cmdb_ci_appl,11/08/2016 19:22
+Windows Cluster,cmdb_ci_windows_cluster,Cluster,cmdb_ci_windows,25/08/2016 18:13
+Windows Cluster,cmdb_ci_win_cluster,Cluster,cmdb_ci_win,06/03/2015 17:57
+Windows Cluster Node,cmdb_ci_win_cluster_node,Cluster Node,cmdb_ci_win,06/03/2015 17:57
+Windows Cluster Resource,cmdb_ci_win_cluster_resource,Cluster Resource,cmdb_ci_win,06/03/2015 17:57
+Windows Domain Controller,cmdb_ci_win_domain_controller,Application,cmdb_ci_win,06/03/2015 17:57
+Windows Server,cmdb_ci_win_server,Server,cmdb_ci_win,06/03/2015 17:57
+Windows Service,cmdb_ci_windows_service,IP Service Instance,cmdb_ci_windows,06/03/2015 17:57
+Wireless Access Point,cmdb_ci_wap_network,Network Gear,cmdb_ci_wap,11/08/2016 19:24
+WMB Dependency Endpoint,cmdb_ci_endpoint_wmb_depend,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+WMB Flow,cmdb_ci_appl_wmb,Application,cmdb_ci_appl,11/08/2016 19:22
+WMB Flow EP,cmdb_ci_endpoint_wmb_flow,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+Workload Config Provider,cmdb_ci_workload_config_provider,Configuration Item,cmdb_ci_workload,19/02/2021 10:25
+XenApp or Presentation Server,cmdb_ci_endpoint_storf,Inclusion Endpoint,cmdb_ci_endpoint,11/08/2016 19:24
+XenApp or Presentation Server Components Endpoint,cmdb_ci_endpoint_xenapp_comp,Endpoint,cmdb_ci_endpoint,11/08/2016 19:23
+XenApp or Presentation Server Endpoint,cmdb_ci_endpoint_xenapp,Endpoint,cmdb_ci_endpoint,22/02/2018 19:44
+Zones,cmdb_ci_vm_zones,Virtual Machine HyperVisor,cmdb_ci_vm,06/03/2015 17:57
